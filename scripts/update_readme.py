@@ -1,7 +1,5 @@
 """GitHub Profile READMEを自動更新するスクリプト"""
 
-import json
-import re
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
@@ -12,29 +10,6 @@ README_PATH = Path(__file__).parent.parent / "README.md"
 GITHUB_USER = "mohadayo"
 BLOG_URL = "https://mohablog.com"
 QIITA_USER = "moha0918_"
-
-
-def fetch_github_repos(limit: int = 5) -> list[dict]:
-    """直近の公開リポジトリを取得する"""
-    resp = requests.get(
-        f"https://api.github.com/users/{GITHUB_USER}/repos",
-        params={"sort": "created", "direction": "desc", "per_page": limit, "type": "owner"},
-        headers={"Accept": "application/vnd.github.v3+json"},
-        timeout=15,
-    )
-    resp.raise_for_status()
-    repos = []
-    for r in resp.json():
-        if r["fork"]:
-            continue
-        repos.append({
-            "name": r["name"],
-            "url": r["html_url"],
-            "description": r["description"] or "",
-            "language": r["language"] or "",
-            "stars": r["stargazers_count"],
-        })
-    return repos[:limit]
 
 
 def fetch_blog_posts(limit: int = 5) -> list[dict]:
