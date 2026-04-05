@@ -105,12 +105,16 @@ def build_readme() -> str:
 
 ---
 
-### Tech Stack & Languages
+### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,fastapi,django&theme=light" alt="Tech Stack 1" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker,aws,postgres,githubactions&theme=light" alt="Tech Stack 2" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={GITHUB_USER}&theme=default" alt="Top Languages by Repo" height="120" />
+  <img src="https://skillicons.dev/icons?i=python,go,fastapi,django,docker,aws,postgres,githubactions&perline=4&theme=light" alt="Tech Stack" />
+</p>
+
+### Languages
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={GITHUB_USER}&theme=default" alt="Top Languages by Repo" />
 </p>
 
 ---
