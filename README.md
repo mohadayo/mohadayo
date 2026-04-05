@@ -11,19 +11,19 @@
 
 ---
 
-### Tech Stack
+### Tech Stack & Languages
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,fastapi,django,docker,aws,postgres,githubactions&theme=light" alt="Tech Stack" />
-</p>
-
----
-
-### Languages
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohadayo&theme=default" alt="Top Languages by Repo" />
-</p>
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://skillicons.dev/icons?i=python,go,fastapi,django&theme=light" alt="Tech Stack 1" /><br/>
+      <img src="https://skillicons.dev/icons?i=docker,aws,postgres,githubactions&theme=light" alt="Tech Stack 2" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohadayo&theme=default" alt="Top Languages by Repo" />
+    </td>
+  </tr>
+</table>
 
 ---
 
