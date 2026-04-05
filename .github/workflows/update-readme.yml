@@ -1,0 +1,29 @@
+name: Update README
+
+on:
+  schedule:
+    # 毎日 12:00 UTC (日本時間 21:00) に実行 - ブログ投稿(20:00)の1時間後
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Update README
+        run: python scripts/update_readme.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet README.md || (git add README.md && git commit -m "Update README with latest posts" && git push)
