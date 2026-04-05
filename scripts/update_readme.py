@@ -79,15 +79,8 @@ def build_readme() -> str:
     """READMEのMarkdownを生成する"""
     now = datetime.now(JST).strftime("%Y/%m/%d %H:%M")
 
-    repos = fetch_github_repos()
     blog_posts = fetch_blog_posts()
     qiita_posts = fetch_qiita_posts()
-
-    # GitHub repos セクション
-    repos_md = ""
-    for r in repos:
-        lang = f" `{r['language']}`" if r["language"] else ""
-        repos_md += f"- [{r['name']}]({r['url']}){lang} - {r['description']}\n"
 
     # Blog posts セクション
     blog_md = ""
@@ -128,20 +121,15 @@ def build_readme() -> str:
 
 ---
 
-### Latest Blog Posts
+### Blog Posts
 <!-- blog -->
 {blog_md.strip()}
 <!-- /blog -->
 
-### Latest Qiita Posts
+### Qiita Posts
 <!-- qiita -->
 {qiita_md.strip()}
 <!-- /qiita -->
-
-### Latest Repositories
-<!-- repos -->
-{repos_md.strip()}
-<!-- /repos -->
 
 ---
 
