@@ -19,10 +19,20 @@
 
 ---
 
-### Languages
+### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohadayo&layout=donut&theme=default&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohadayo&theme=default" alt="Profile Details" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohadayo&theme=default" alt="Top Languages by Repo" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohadayo&theme=default" alt="Top Languages by Commit" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohadayo&theme=default" alt="Stats" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohadayo&theme=default&utcOffset=9" alt="Commits" height="170" />
 </p>
 
 ---
@@ -54,5 +64,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/04/05 15:33 JST</sub>
+  <sub>Last updated: 2026/04/05 15:38 JST</sub>
 </p>
