@@ -27,6 +27,12 @@
 
 ---
 
+### Live Service
+
+- [SES面談対策クイズ](https://github.com/mohadayo/rootage-ses-quiz) - SES企業向け面談対策アプリ (Go)
+
+---
+
 ### Blog Posts
 <!-- blog -->
 - [Pythonのloggingモジュール完全ガイド：本番環境で使える設計パターン](https://mohablog.com/python-logging-design-guide/) (2026-04-05)
@@ -48,5 +54,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/04/05 15:28 JST</sub>
+  <sub>Last updated: 2026/04/05 15:30 JST</sub>
 </p>
