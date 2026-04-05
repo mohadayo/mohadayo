@@ -27,23 +27,6 @@
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohadayo&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohadayo&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohadayo&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohadayo&theme=minimal&hide_border=true&area=true" alt="Activity Graph" width="100%" />
-</p>
-
----
-
 ### Latest Blog Posts
 <!-- blog -->
 - [Pythonのloggingモジュール完全ガイド：本番環境で使える設計パターン](https://mohablog.com/python-logging-design-guide/) (2026-04-05)
@@ -74,5 +57,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/04/05 15:23 JST</sub>
+  <sub>Last updated: 2026/04/05 15:25 JST</sub>
 </p>

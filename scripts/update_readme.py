@@ -128,23 +128,6 @@ def build_readme() -> str:
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username={GITHUB_USER}&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={GITHUB_USER}&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user={GITHUB_USER}&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username={GITHUB_USER}&theme=minimal&hide_border=true&area=true" alt="Activity Graph" width="100%" />
-</p>
-
----
-
 ### Latest Blog Posts
 <!-- blog -->
 {blog_md.strip()}
