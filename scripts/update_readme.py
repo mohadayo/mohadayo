@@ -113,6 +113,14 @@ def build_readme() -> str:
 
 ---
 
+### Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={GITHUB_USER}&layout=donut&theme=default&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+---
+
 ### Live Service
 
 - [SES面談対策クイズ](https://github.com/mohadayo/rootage-ses-quiz) - SES企業向け面談対策アプリ (Go)
