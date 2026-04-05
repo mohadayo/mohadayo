@@ -92,7 +92,7 @@ def build_readme() -> str:
     for p in qiita_posts:
         qiita_md += f"- [{p['title']}]({p['url']}) ({p['date']})\n"
 
-    readme = f"""<h1 align="center">Hi, I'm moha</h1>
+    readme = f"""<h1 align="center">Hi! Welcome to my GitHub!</h1>
 <p align="center">
   <em>Backend Engineer / Freelance / Tokyo</em>
 </p>

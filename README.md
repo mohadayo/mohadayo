@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm moha</h1>
+<h1 align="center">Hi! Welcome to my GitHub!</h1>
 <p align="center">
   <em>Backend Engineer / Freelance / Tokyo</em>
 </p>
@@ -54,5 +54,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/04/05 15:40 JST</sub>
+  <sub>Last updated: 2026/04/05 15:42 JST</sub>
 </p>
