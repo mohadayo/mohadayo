@@ -99,11 +99,49 @@ def build_readme() -> str:
     for p in qiita_posts:
         qiita_md += f"- [{p['title']}]({p['url']}) ({p['date']})\n"
 
-    readme = f"""## moha
+    readme = f"""<h1 align="center">Hi, I'm moha</h1>
+<p align="center">
+  <em>Backend Engineer / Freelance / Tokyo</em>
+</p>
 
-バックエンドエンジニア / フリーランス
+<p align="center">
+  <a href="https://mohablog.com"><img src="https://img.shields.io/badge/Blog-mohablog-333?style=flat-square" alt="Blog" /></a>
+  <a href="https://qiita.com/moha0918_"><img src="https://img.shields.io/badge/Qiita-moha0918__-55C500?style=flat-square&logo=qiita&logoColor=white" alt="Qiita" /></a>
+  <a href="https://github.com/mohadayo"><img src="https://img.shields.io/badge/GitHub-mohadayo-181717?style=flat-square&logo=github" alt="GitHub" /></a>
+</p>
 
-Python・Go・Claude Codeを軸に開発しています。
+---
+
+### Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username={GITHUB_USER}&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={GITHUB_USER}&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user={GITHUB_USER}&theme=default&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username={GITHUB_USER}&theme=minimal&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+</p>
 
 ---
 
@@ -124,7 +162,9 @@ Python・Go・Claude Codeを軸に開発しています。
 
 ---
 
-<sub>Last updated: {now} JST</sub>
+<p align="center">
+  <sub>Last updated: {now} JST</sub>
+</p>
 """
     return readme
 
