@@ -86,12 +86,6 @@ def build_readme() -> str:
   <img src="https://skillicons.dev/icons?i=python,go,fastapi,django,docker,aws,postgres,githubactions&perline=4&theme=light" alt="Tech Stack" />
 </p>
 
-### Languages
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={GITHUB_USER}&theme=default" alt="Top Languages by Repo" />
-</p>
-
 ---
 
 ### Live Service

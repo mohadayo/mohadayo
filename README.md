@@ -17,12 +17,6 @@
   <img src="https://skillicons.dev/icons?i=python,go,fastapi,django,docker,aws,postgres,githubactions&perline=4&theme=light" alt="Tech Stack" />
 </p>
 
-### Languages
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohadayo&theme=default" alt="Top Languages by Repo" />
-</p>
-
 ---
 
 ### Live Service
@@ -52,5 +46,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/04/05 15:59 JST</sub>
+  <sub>Last updated: 2026/04/05 16:02 JST</sub>
 </p>
