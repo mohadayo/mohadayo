@@ -113,20 +113,10 @@ def build_readme() -> str:
 
 ---
 
-### Stats
+### Languages
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={GITHUB_USER}&theme=default" alt="Profile Details" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={GITHUB_USER}&theme=default" alt="Top Languages by Repo" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={GITHUB_USER}&theme=default" alt="Top Languages by Commit" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username={GITHUB_USER}&theme=default" alt="Stats" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username={GITHUB_USER}&theme=default&utcOffset=9" alt="Commits" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={GITHUB_USER}&theme=default" alt="Top Languages by Repo" />
 </p>
 
 ---
