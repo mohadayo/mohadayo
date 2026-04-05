@@ -20,7 +20,7 @@
 ### Languages
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohadayo&theme=default" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohadayo&theme=nord_dark" alt="Top Languages by Repo" />
 </p>
 
 ---
@@ -52,5 +52,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/04/05 15:45 JST</sub>
+  <sub>Last updated: 2026/04/05 15:57 JST</sub>
 </p>

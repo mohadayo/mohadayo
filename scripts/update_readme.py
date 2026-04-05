@@ -89,7 +89,7 @@ def build_readme() -> str:
 ### Languages
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={GITHUB_USER}&theme=default" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={GITHUB_USER}&theme=nord_dark" alt="Top Languages by Repo" />
 </p>
 
 ---
