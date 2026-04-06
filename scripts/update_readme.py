@@ -99,7 +99,8 @@ def build_readme() -> str:
 
 ### Works
 
-- [SES面談対策クイズ](https://github.com/mohadayo/rootage-ses-quiz) - SES企業向け面談対策アプリ (Go)
+- [rootage](https://github.com/mohadayo/rootage) - SES企業向け新人エンジニア育成アプリ (Go + Vue 3 + PostgreSQL)
+  <br>*[ルーテイジ株式会社](https://www.rootage.co.jp/)様より受注・納品。許可を得てソースコードを公開しています。*
 
 ---
 
