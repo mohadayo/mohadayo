@@ -1,6 +1,6 @@
 <h1 align="center">Hi! Welcome to my GitHub!</h1>
 <p align="center">
-  <em>Backend Engineer / Freelance / Tokyo</em>
+  <em>Software Engineer / Freelance / Tokyo</em>
 </p>
 
 <p align="center">
@@ -42,5 +42,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/04/06 17:34 JST</sub>
+  <sub>Last updated: 2026/04/06 17:48 JST</sub>
 </p>

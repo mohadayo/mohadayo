@@ -78,7 +78,7 @@ def build_readme() -> str:
 
     readme = f"""<h1 align="center">Hi! Welcome to my GitHub!</h1>
 <p align="center">
-  <em>Backend Engineer / Freelance / Tokyo</em>
+  <em>Software Engineer / Freelance / Tokyo</em>
 </p>
 
 <p align="center">
