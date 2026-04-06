@@ -10,7 +10,6 @@ README_PATH = Path(__file__).parent.parent / "README.md"
 GITHUB_USER = "mohadayo"
 BLOG_URL = "https://mohablog.com"
 QIITA_USER = "moha0918_"
-ZENN_USER = "mohadayo"
 
 
 def fetch_blog_posts(limit: int = 5) -> list[dict]:
@@ -84,7 +83,6 @@ def build_readme() -> str:
 
 <p align="center">
   <a href="https://mohablog.com"><img src="https://img.shields.io/badge/Blog-mohablog-333?style=flat-square" alt="Blog" /></a>
-  <a href="https://zenn.dev/{ZENN_USER}"><img src="https://img.shields.io/badge/Zenn-mohadayo-3EA8FF?style=flat-square&logo=zenn&logoColor=white" alt="Zenn" /></a>
   <a href="https://qiita.com/moha0918_"><img src="https://img.shields.io/badge/Qiita-moha0918__-55C500?style=flat-square&logo=qiita&logoColor=white" alt="Qiita" /></a>
   <a href="https://zenn.dev/moha0918"><img src="https://img.shields.io/badge/Zenn-moha0918-3EA8FF?style=flat-square&logo=zenn&logoColor=white" alt="Zenn" /></a>
   <a href="https://github.com/mohadayo"><img src="https://img.shields.io/badge/GitHub-mohadayo-181717?style=flat-square&logo=github" alt="GitHub" /></a>
