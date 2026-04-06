@@ -19,7 +19,7 @@
 
 ---
 
-### Live Service
+### Works
 
 - [SES面談対策クイズ](https://github.com/mohadayo/rootage-ses-quiz) - SES企業向け面談対策アプリ (Go)
 
@@ -42,5 +42,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/04/06 17:48 JST</sub>
+  <sub>Last updated: 2026/04/06 17:52 JST</sub>
 </p>

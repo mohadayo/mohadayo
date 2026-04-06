@@ -97,7 +97,7 @@ def build_readme() -> str:
 
 ---
 
-### Live Service
+### Works
 
 - [SES面談対策クイズ](https://github.com/mohadayo/rootage-ses-quiz) - SES企業向け面談対策アプリ (Go)
 
