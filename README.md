@@ -21,7 +21,7 @@
 
 ### Works
 
-- [rootage](https://github.com/mohadayo/rootage-ses-quiz) - SES企業向け新人エンジニア育成アプリ (Go + Vue 3 + PostgreSQL)
+- [rootage](https://github.com/mohadayo/rootage) - SES企業向け新人エンジニア育成アプリ (Go + Vue 3 + PostgreSQL)
   - クイズ学習（4カテゴリ x 3難易度 / アチーブメント）
   - 実践ガイド（Markdown記事 / キーワード検索）
   - 社内検索AI（RAG: OpenAI + pgvector）
