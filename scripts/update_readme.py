@@ -62,8 +62,8 @@ def build_readme() -> str:
     """READMEのMarkdownを生成する"""
     now = datetime.now(JST).strftime("%Y/%m/%d %H:%M")
 
-    blog_posts = fetch_blog_posts()
-    qiita_posts = fetch_qiita_posts()
+    blog_posts = fetch_blog_posts(limit=3)
+    qiita_posts = fetch_qiita_posts(limit=3)
 
     # Blog posts セクション
     blog_md = ""
