@@ -14,7 +14,7 @@
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,fastapi,django,docker,aws,postgres,githubactions&perline=4&theme=light" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,go,ts,vue,fastapi,django,docker,aws,postgres,githubactions&perline=5&theme=light" alt="Tech Stack" />
 </p>
 
 ---
@@ -42,5 +42,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/04/06 17:01 JST</sub>
+  <sub>Last updated: 2026/04/06 17:34 JST</sub>
 </p>

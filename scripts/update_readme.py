@@ -92,7 +92,7 @@ def build_readme() -> str:
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,fastapi,django,docker,aws,postgres,githubactions&perline=4&theme=light" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,go,ts,vue,fastapi,django,docker,aws,postgres,githubactions&perline=5&theme=light" alt="Tech Stack" />
 </p>
 
 ---
