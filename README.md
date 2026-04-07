@@ -24,6 +24,10 @@
 - [rootage](https://github.com/mohadayo/rootage) - SES企業向け新人エンジニア育成アプリ (Go + Vue 3 + PostgreSQL)
   <br><sub><em><a href="https://www.rootage.co.jp/">ルーテイジ株式会社</a>様より受注・納品。許可を得てソースコードを公開しています。</em></sub>
 
+- **Coming Soon** - 個人開発プロジェクト (準備中)
+
+- **Coming Soon** - 個人開発プロジェクト (準備中)
+
 ---
 
 ### Blog Posts
