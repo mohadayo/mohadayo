@@ -12,7 +12,7 @@ BLOG_URL = "https://mohablog.com"
 QIITA_USER = "moha0918_"
 
 
-def fetch_blog_posts(limit: int = 5) -> list[dict]:
+def fetch_blog_posts(limit: int = 3) -> list[dict]:
     """mohablogの直近記事を取得する"""
     try:
         resp = requests.get(
@@ -34,7 +34,7 @@ def fetch_blog_posts(limit: int = 5) -> list[dict]:
         return []
 
 
-def fetch_qiita_posts(limit: int = 5) -> list[dict]:
+def fetch_qiita_posts(limit: int = 3) -> list[dict]:
     """Qiitaの直近記事を取得する"""
     try:
         resp = requests.get(
