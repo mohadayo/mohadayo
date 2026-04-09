@@ -23,8 +23,10 @@
 
 - [rootage-quiz](https://github.com/mohadayo/rootage-quiz) - SES企業向け新人エンジニア育成アプリ (Go + Vue 3 + PostgreSQL)
   <br><sub>*[ルーテイジ株式会社](https://www.rootage.co.jp/)様より受注・納品。許可を得てソースコードを公開しています。*</sub>
+
 - [rag-support-assist](https://github.com/mohadayo/rag-support-assist) - カスタマーサポート回答支援AI (FastAPI + Next.js + pgvector)
   <br><sub>*個人開発 / RAG回答生成 / [Demo](https://rag-support-assist.vercel.app)*</sub>
+
 - [url-shortener](https://github.com/mohadayo/url-shortener) - URL短縮サービス (Go + Python + TypeScript)
   <br><sub>*個人開発 / マルチ言語API / [Demo](https://moha-url-shortener.fly.dev)*</sub>
 
