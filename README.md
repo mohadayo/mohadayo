@@ -28,20 +28,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude CodeでNext.js + Go のフルスタック開発を型安全に進める](https://mohablog.com/fullstack-nextjs-go-type-safe/) (2026-04-10)
+- [Go のデータベース接続プーリングで何が変わる？database/sqlの最適化と実装のコツ](https://mohablog.com/go-database-connection-pooling/) (2026-04-10)
 - [Goのエラーハンドリングで失敗しない方法—wrappingパターンと構造化ログの組み合わせ](https://mohablog.com/go-error-handling-wrapping/) (2026-04-09)
-- [Spec-Driven Developmentの始め方：Pythonでテスト駆動から仕様駆動へ](https://mohablog.com/spec-driven-development-python/) (2026-04-09)
-- [PythonでAIスキル開発：UI/UXデザイン知識をAIに実装する方法](https://mohablog.com/python-ai-ui-ux-skill-development/) (2026-04-08)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Codeスケジュール実行の3大トラブル——症状別デバッグガイド](https://qiita.com/moha0918_/items/027ae5fc4b24bafae695) (2026-04-10)
 - [今日のClaude Code v2.1.98 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/0695a5e0a5b2ade1cf85) (2026-04-10)
 - [初心者が陥るHooksの落とし穴3つ — Claude Codeのワークフロー自動化完全ガイド](https://qiita.com/moha0918_/items/7dae0551edf85c051a48) (2026-04-09)
-- [複数のAIが同時に働く仕組み - Agent Teamsで実現するチーム開発の全体像](https://qiita.com/moha0918_/items/9682b1ec8b71e884ec13) (2026-04-09)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/04/10 13:53 JST</sub>
+  <sub>Last updated: 2026/04/10 22:05 JST</sub>
 </p>
