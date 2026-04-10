@@ -1,5 +1,6 @@
-"""GitHub Profile READMEを自動更新するスクリプト"""
+"""GitHub Profile READMEのブログ・Qiita記事セクションのみを自動更新するスクリプト"""
 
+import re
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
@@ -7,7 +8,6 @@ import requests
 
 JST = timezone(timedelta(hours=9))
 README_PATH = Path(__file__).parent.parent / "README.md"
-GITHUB_USER = "mohadayo"
 BLOG_URL = "https://mohablog.com"
 QIITA_USER = "moha0918_"
 
@@ -50,7 +50,6 @@ def fetch_qiita_posts(limit: int = 3) -> list[dict]:
                 "title": p["title"],
                 "url": p["url"],
                 "date": p["created_at"][:10],
-                "likes": p["likes_count"],
             })
         return posts
     except Exception as e:
@@ -58,73 +57,43 @@ def fetch_qiita_posts(limit: int = 3) -> list[dict]:
         return []
 
 
-def build_readme() -> str:
-    """READMEのMarkdownを生成する"""
+def replace_section(readme: str, tag: str, content: str) -> str:
+    """<!-- tag --> ... <!-- /tag --> の間を置換する"""
+    pattern = rf"(<!-- {tag} -->\n).*?(\n<!-- /{tag} -->)"
+    replacement = rf"\g<1>{content}\g<2>"
+    return re.sub(pattern, replacement, readme, flags=re.DOTALL)
+
+
+def update_timestamp(readme: str) -> str:
+    """Last updatedのタイムスタンプを更新する"""
     now = datetime.now(JST).strftime("%Y/%m/%d %H:%M")
+    return re.sub(
+        r"<sub>Last updated: .+? JST</sub>",
+        f"<sub>Last updated: {now} JST</sub>",
+        readme,
+    )
+
+
+def main():
+    readme = README_PATH.read_text(encoding="utf-8")
 
     blog_posts = fetch_blog_posts(limit=3)
     qiita_posts = fetch_qiita_posts(limit=3)
 
-    # Blog posts セクション
-    blog_md = ""
-    for p in blog_posts:
-        blog_md += f"- [{p['title']}]({p['url']}) ({p['date']})\n"
+    if blog_posts:
+        blog_md = "\n".join(
+            f"- [{p['title']}]({p['url']}) ({p['date']})" for p in blog_posts
+        )
+        readme = replace_section(readme, "blog", blog_md)
 
-    # Qiita posts セクション
-    qiita_md = ""
-    for p in qiita_posts:
-        qiita_md += f"- [{p['title']}]({p['url']}) ({p['date']})\n"
+    if qiita_posts:
+        qiita_md = "\n".join(
+            f"- [{p['title']}]({p['url']}) ({p['date']})" for p in qiita_posts
+        )
+        readme = replace_section(readme, "qiita", qiita_md)
 
+    readme = update_timestamp(readme)
 
-    readme = f"""<h1 align="center">Hi! Welcome to my GitHub!</h1>
-<p align="center">
-  <em>Software Engineer / Freelance / Tokyo</em>
-</p>
-
-<p align="center">
-  <a href="https://mohablog.com"><img src="https://img.shields.io/badge/Blog-mohablog-333?style=flat-square" alt="Blog" /></a>
-  <a href="https://qiita.com/moha0918_"><img src="https://img.shields.io/badge/Qiita-moha0918__-55C500?style=flat-square&logo=qiita&logoColor=white" alt="Qiita" /></a>
-  <a href="https://github.com/mohadayo"><img src="https://img.shields.io/badge/GitHub-mohadayo-181717?style=flat-square&logo=github" alt="GitHub" /></a>
-</p>
-
----
-
-### Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,ts,vue,fastapi,django,docker,aws,postgres,githubactions&perline=5&theme=light" alt="Tech Stack" />
-</p>
-
----
-
-### Works
-
-- [rootage](https://github.com/mohadayo/rootage) - SES企業向け新人エンジニア育成アプリ (Go + Vue 3 + PostgreSQL)
-  <br>*[ルーテイジ株式会社](https://www.rootage.co.jp/)様より受注・納品。許可を得てソースコードを公開しています。*
-
----
-
-### Blog Posts
-<!-- blog -->
-{blog_md.strip()}
-<!-- /blog -->
-
-### Qiita Posts
-<!-- qiita -->
-{qiita_md.strip()}
-<!-- /qiita -->
-
----
-
-<p align="center">
-  <sub>Last updated: {now} JST</sub>
-</p>
-"""
-    return readme
-
-
-def main():
-    readme = build_readme()
     README_PATH.write_text(readme, encoding="utf-8")
     print(f"README.md updated ({len(readme)} chars)")
 
