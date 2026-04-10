@@ -35,13 +35,13 @@
 
 ### Qiita Posts
 <!-- qiita -->
+- [今日のClaude Code v2.1.98 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/0695a5e0a5b2ade1cf85) (2026-04-10)
 - [初心者が陥るHooksの落とし穴3つ — Claude Codeのワークフロー自動化完全ガイド](https://qiita.com/moha0918_/items/7dae0551edf85c051a48) (2026-04-09)
 - [複数のAIが同時に働く仕組み - Agent Teamsで実現するチーム開発の全体像](https://qiita.com/moha0918_/items/9682b1ec8b71e884ec13) (2026-04-09)
-- [今日のClaude Code v2.1.97 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/112149866223f8b5f6a0) (2026-04-09)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/04/09 22:23 JST</sub>
+  <sub>Last updated: 2026/04/10 13:53 JST</sub>
 </p>
