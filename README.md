@@ -28,20 +28,20 @@
 
 ### Blog Posts
 <!-- blog -->
-- [Python群体知能エンジン MiroFish で金融予測を実装する方法](https://mohablog.com/mirofish-swarm-intelligence-python/) (2026-04-11)
-- [Goのミドルウェアパターンを理解する—net/httpで柔軟なリクエスト処理を実装する方法](https://mohablog.com/go-middleware-pattern-http/) (2026-04-11)
-- [Claude CodeでNext.js + Go のフルスタック開発を型安全に進める](https://mohablog.com/fullstack-nextjs-go-type-safe/) (2026-04-10)
+- [GoでgRPCサーバーを構築する — Protocol Buffersから実装まで](https://mohablog.com/go-grpc-protobuf-server/) (2026-04-12)
+- [Claude CodeのCLAUDE.md設計 — チーム開発ルールを統一する仕組み](https://mohablog.com/claude-md-team-rules-design/) (2026-04-12)
+- [Goテストの書き方&#8211;testing・httptest・mockを正しく使い分ける](https://mohablog.com/go-testing-httptest-mock/) (2026-04-12)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
-- [今日のClaude Code v2.1.101 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/abdb27e2cbdb6cbcf8ea) (2026-04-11)
-- [Claude Code Skillsのドキュメントを全部読んだので、本当に使える実装パターンだけ8個まとめた](https://qiita.com/moha0918_/items/786b556a84052a564fb5) (2026-04-11)
-- [VS Code内でClaude Codeを使いこなす5つのステップ【実運用者が解説】](https://qiita.com/moha0918_/items/f8e2507d8ffbae2f1451) (2026-04-11)
+- [Claude Codeワークフロー別比較——6シーンで手作業と何が変わるかを正直にまとめた](https://qiita.com/moha0918_/items/a5fad17e73e2ac7a5d64) (2026-04-12)
+- [Claude Code settings.json 完全チートシート — 全設定項目と実用サンプル集](https://qiita.com/moha0918_/items/ef10d0e9beec96a4aee4) (2026-04-12)
+- [チームのPRレビューをClaude Code Reviewに移行する、REVIEW.md設計からコスト管理まで](https://qiita.com/moha0918_/items/1176df010b1a7aeadff1) (2026-04-12)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/04/11 21:53 JST</sub>
+  <sub>Last updated: 2026/04/12 21:57 JST</sub>
 </p>
