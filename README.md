@@ -31,20 +31,20 @@
 
 ### Blog Posts
 <!-- blog -->
-- [GoでgRPCサーバーを構築する — Protocol Buffersから実装まで](https://mohablog.com/go-grpc-protobuf-server/) (2026-04-12)
-- [Claude CodeのCLAUDE.md設計 — チーム開発ルールを統一する仕組み](https://mohablog.com/claude-md-team-rules-design/) (2026-04-12)
-- [Goテストの書き方&#8211;testing・httptest・mockを正しく使い分ける](https://mohablog.com/go-testing-httptest-mock/) (2026-04-12)
+- [Pydantic V2のバリデーション設計—よくあるミスと正しい書き方](https://mohablog.com/pydantic-v2-validation-design/) (2026-04-13)
+- [GoのインターフェースとDI設計パターン—テスタブルなコードの作り方](https://mohablog.com/go-interface-di-testable-code/) (2026-04-13)
+- [Claude Codeのコンテキスト管理術—トークン消費を抑える7つの工夫](https://mohablog.com/claude-code-context-management/) (2026-04-13)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
-- [Claude Codeワークフロー別比較——6シーンで手作業と何が変わるかを正直にまとめた](https://qiita.com/moha0918_/items/a5fad17e73e2ac7a5d64) (2026-04-12)
-- [Claude Code settings.json 完全チートシート — 全設定項目と実用サンプル集](https://qiita.com/moha0918_/items/ef10d0e9beec96a4aee4) (2026-04-12)
-- [チームのPRレビューをClaude Code Reviewに移行する、REVIEW.md設計からコスト管理まで](https://qiita.com/moha0918_/items/1176df010b1a7aeadff1) (2026-04-12)
+- [【10分で理解する】Claude Codeが裏側でやっていること——エージェントループ入門](https://qiita.com/moha0918_/items/75959a0d1ba559cecddd) (2026-04-13)
+- [今日のClaude Code v2.1.104 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/80bbdb2e3ffd6b7997bb) (2026-04-13)
+- [手を動かして覚えるClaude Codeベストプラクティス——CLAUDE.mdからサブエージェント委譲まで](https://qiita.com/moha0918_/items/a3788f6f812ff50a0c7b) (2026-04-13)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/04/13 JST</sub>
+  <sub>Last updated: 2026/04/13 22:22 JST</sub>
 </p>
