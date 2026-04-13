@@ -23,6 +23,9 @@
 
 - [rootage-quiz](https://github.com/mohadayo/rootage-quiz) - 新人エンジニア育成アプリ (Go + Vue 3 + PostgreSQL)
   <br>*[ルーテイジ株式会社](https://www.rootage.co.jp/)様より受注・納品。許可を得てソースコードを公開しています。*
+- **senpai** - 悩み解決マッチングアプリ (Next.js + Supabase) `Coming Soon`
+  <br>*あなたの悩みを実際に乗り越えた人と15分話せるマッチングサービス*
+- **???** - New Project `Coming Soon`
 
 ---
 
@@ -43,5 +46,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/04/12 21:57 JST</sub>
+  <sub>Last updated: 2026/04/13 JST</sub>
 </p>
