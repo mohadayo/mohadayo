@@ -31,20 +31,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude CodeでPlaywrightのE2Eテストを自動生成する手順](https://mohablog.com/claude-code-playwright-e2e/) (2026-04-14)
 - [Pydantic V2のバリデーション設計—よくあるミスと正しい書き方](https://mohablog.com/pydantic-v2-validation-design/) (2026-04-13)
 - [GoのインターフェースとDI設計パターン—テスタブルなコードの作り方](https://mohablog.com/go-interface-di-testable-code/) (2026-04-13)
-- [Claude Codeのコンテキスト管理術—トークン消費を抑える7つの工夫](https://mohablog.com/claude-code-context-management/) (2026-04-13)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [今日のClaude Code v2.1.107 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/279886c1d8978b18b0cb) (2026-04-14)
+- [今日のClaude Code v2.1.105 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/adfe2a43357decb68ff7) (2026-04-14)
 - [【10分で理解する】Claude Codeが裏側でやっていること——エージェントループ入門](https://qiita.com/moha0918_/items/75959a0d1ba559cecddd) (2026-04-13)
-- [今日のClaude Code v2.1.104 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/80bbdb2e3ffd6b7997bb) (2026-04-13)
-- [手を動かして覚えるClaude Codeベストプラクティス——CLAUDE.mdからサブエージェント委譲まで](https://qiita.com/moha0918_/items/a3788f6f812ff50a0c7b) (2026-04-13)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/04/13 22:22 JST</sub>
+  <sub>Last updated: 2026/04/14 22:21 JST</sub>
 </p>
