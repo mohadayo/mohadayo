@@ -31,20 +31,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Pythonのパッケージ管理はuvで統一すべき？pip・poetryとの違い](https://mohablog.com/python-uv-vs-pip-poetry/) (2026-04-15)
 - [Claude CodeでPlaywrightのE2Eテストを自動生成する手順](https://mohablog.com/claude-code-playwright-e2e/) (2026-04-14)
 - [Pydantic V2のバリデーション設計—よくあるミスと正しい書き方](https://mohablog.com/pydantic-v2-validation-design/) (2026-04-13)
-- [GoのインターフェースとDI設計パターン—テスタブルなコードの作り方](https://mohablog.com/go-interface-di-testable-code/) (2026-04-13)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
-- [今日のClaude Code v2.1.107 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/279886c1d8978b18b0cb) (2026-04-14)
-- [今日のClaude Code v2.1.105 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/adfe2a43357decb68ff7) (2026-04-14)
-- [【10分で理解する】Claude Codeが裏側でやっていること——エージェントループ入門](https://qiita.com/moha0918_/items/75959a0d1ba559cecddd) (2026-04-13)
+- [今日のClaude Code v2.1.109 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/8d920b8bbc871098f906) (2026-04-15)
+- [CLAUDE.mdを「とりあえず」で済ませてる人に知ってほしい、指示精度が上がる7つの書き方](https://qiita.com/moha0918_/items/72d4d32fce1b585ddbad) (2026-04-15)
+- [今日のClaude Code v2.1.108 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/2733a8fbd2c7c3861b47) (2026-04-15)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/04/14 22:21 JST</sub>
+  <sub>Last updated: 2026/04/15 22:20 JST</sub>
 </p>
