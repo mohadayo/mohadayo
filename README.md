@@ -31,20 +31,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [GORMのN+1問題とマイグレーション設計—Goで踏みやすい罠と回避策](https://mohablog.com/go-gorm-n1-migration-pitfalls/) (2026-04-16)
+- [pytestでPythonテストを効率化する—フィクスチャとモックの使い方](https://mohablog.com/pytest-python-testing-guide/) (2026-04-16)
 - [Pythonのパッケージ管理はuvで統一すべき？pip・poetryとの違い](https://mohablog.com/python-uv-vs-pip-poetry/) (2026-04-15)
-- [Claude CodeでPlaywrightのE2Eテストを自動生成する手順](https://mohablog.com/claude-code-playwright-e2e/) (2026-04-14)
-- [Pydantic V2のバリデーション設計—よくあるミスと正しい書き方](https://mohablog.com/pydantic-v2-validation-design/) (2026-04-13)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
-- [今日のClaude Code v2.1.109 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/8d920b8bbc871098f906) (2026-04-15)
-- [CLAUDE.mdを「とりあえず」で済ませてる人に知ってほしい、指示精度が上がる7つの書き方](https://qiita.com/moha0918_/items/72d4d32fce1b585ddbad) (2026-04-15)
-- [今日のClaude Code v2.1.108 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/2733a8fbd2c7c3861b47) (2026-04-15)
+- [CLAUDE.mdが200行超えたら読む記事、Claude Code拡張6種の使い分け](https://qiita.com/moha0918_/items/b55226af0c21c4b7780c) (2026-04-16)
+- [今日のClaude Code v2.1.110 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/7a134becf6f3f3d1d298) (2026-04-16)
+- [MCPの設定、addだけで終わる話じゃない。知っておくべきClaude Codeの上級テクニック8選](https://qiita.com/moha0918_/items/0ac1abef9834b3e3dbec) (2026-04-16)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/04/15 22:20 JST</sub>
+  <sub>Last updated: 2026/04/16 22:26 JST</sub>
 </p>
