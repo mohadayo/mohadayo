@@ -31,20 +31,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Python asyncioのTaskGroup実践—gatherから乗り換えるべき理由](https://mohablog.com/python-asyncio-taskgroup-vs-gather/) (2026-04-17)
 - [GORMのN+1問題とマイグレーション設計—Goで踏みやすい罠と回避策](https://mohablog.com/go-gorm-n1-migration-pitfalls/) (2026-04-16)
 - [pytestでPythonテストを効率化する—フィクスチャとモックの使い方](https://mohablog.com/pytest-python-testing-guide/) (2026-04-16)
-- [Pythonのパッケージ管理はuvで統一すべき？pip・poetryとの違い](https://mohablog.com/python-uv-vs-pip-poetry/) (2026-04-15)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
-- [CLAUDE.mdが200行超えたら読む記事、Claude Code拡張6種の使い分け](https://qiita.com/moha0918_/items/b55226af0c21c4b7780c) (2026-04-16)
-- [今日のClaude Code v2.1.110 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/7a134becf6f3f3d1d298) (2026-04-16)
-- [MCPの設定、addだけで終わる話じゃない。知っておくべきClaude Codeの上級テクニック8選](https://qiita.com/moha0918_/items/0ac1abef9834b3e3dbec) (2026-04-16)
+- [Claude Codeのコスト最適化、/costだけで終わる話じゃない。Opus 4.7時代の完全チートシート](https://qiita.com/moha0918_/items/b004c2f6070ee1c34d85) (2026-04-17)
+- [今日のClaude Code v2.1.112 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/6a21a6b76828fc7529af) (2026-04-17)
+- [今日のClaude Code v2.1.111 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/2c321dfbb6a3b87a4f4e) (2026-04-17)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/04/16 22:26 JST</sub>
+  <sub>Last updated: 2026/04/17 22:15 JST</sub>
 </p>
