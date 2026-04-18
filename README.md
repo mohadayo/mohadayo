@@ -23,6 +23,8 @@
 
 - [rootage-quiz](https://github.com/mohadayo/rootage-quiz) - 新人エンジニア育成アプリ (Go + Vue 3 + PostgreSQL)
   <br>*[ルーテイジ株式会社](https://www.rootage.co.jp/)様より受注・納品。許可を得てソースコードを公開しています。*
+- [kagebunshin](https://kagebunshin-beryl.vercel.app) - パーソナル AI パートナー (Next.js 16 + tRPC + Claude API + pgvector)
+  <br>*仕事の資料をぶち込むと AI が3層構造に自動分解。自然言語検索と AI 対話で欲しい情報に辿り着ける。*
 - **senpai** - 悩み解決マッチングアプリ (Next.js + Supabase) `Coming Soon`
   <br>*あなたの悩みを実際に乗り越えた人と15分話せるマッチングサービス*
 - **???** - New Project `Coming Soon`
