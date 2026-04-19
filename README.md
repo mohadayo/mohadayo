@@ -25,7 +25,7 @@
   <br>*[ルーテイジ株式会社](https://www.rootage.co.jp/)様より受注・納品。許可を得てソースコードを公開しています。*
 
 - [kagebunshin](https://kagebunshin-beryl.vercel.app) - あなたの仕事を支える専属AIパートナー (Next.js + Supabase)
-  <br>*あらゆる仕事の資料を、放り込むだけ。AIが資料を3層構造に分解し、連結しデータメッシュを構築。横断的に検索・対話できる自分専用のAI秘書。*
+  <br>*あらゆる仕事の資料を、放り込むだけ。AIが資料を分解、連結しデータメッシュを構築。横断的に検索・対話できる自分専用のAI秘書。*
 
 - [lantern](https://lantern-snowy.vercel.app) - 同じ悩みを過去に乗り越えた人と 15 分だけ話せる匿名音声マッチング (Next.js + Supabase)
 
