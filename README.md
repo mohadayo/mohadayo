@@ -27,8 +27,7 @@
 - [kagebunshin](https://kagebunshin-beryl.vercel.app) - あなたの仕事を支える専属AIパートナー (Next.js + Supabase + Claude)
   <br>*PDFも会議メモもURLも、放り込むだけ。AIが3層構造に分解し、資料同士を自動で連結しデータメッシュを構築。情報が網の目のように繋がり、話し言葉で横断検索・対話できる。*
 
-- [lantern](https://lantern-snowy.vercel.app) - 経験者と話せる匿名音声マッチング (Next.js + Supabase + OpenAI + Agora)
-  <br>*経験した人にしか分からない悩みを、同じ道を通って乗り越えた人と 15 分だけ話せる。AI が embedding で「同じ夜を越えた人」を探し、スワイプで両想いが成立すると匿名通話が始まる。*
+- [lantern](https://lantern-snowy.vercel.app) - 同じ夜に寄り添った人と 15 分だけ話せる匿名音声マッチング (Next.js + Supabase + OpenAI + Agora)
 
 ---
 
