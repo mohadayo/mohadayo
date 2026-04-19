@@ -22,11 +22,13 @@
 ### Works
 
 - [rootage-quiz](https://github.com/mohadayo/rootage-quiz) - 新人エンジニア育成アプリ (Go + Vue 3 + PostgreSQL)
-  <br>*[ルーテイジ株式会社](https://www.rootage.co.jp/)様より受注・納品。許可を得てソースコードを公開しています。*
+  <br><sub>*[ルーテイジ株式会社](https://www.rootage.co.jp/)様より受注・納品。許可を得てソースコードを公開しています。*</sub>
 
-- [lantern](https://lantern-snowy.vercel.app) - 同じ悩みを過去に乗り越えた人と話せる。匿名音声マッチングアプリ (Next.js + Supabase)
+- [lantern](https://lantern-snowy.vercel.app) - 同じ夜に寄り添った人と 15 分だけ話せる匿名音声マッチング (Next.js + Supabase + OpenAI + Agora)
 
-- [kagebunshin](https://kagebunshin-beryl.vercel.app) - 資料を放り込むだけ。あなたの仕事を支える専属AIパートナー (Next.js + Supabase)
+- [kagebunshin](https://kagebunshin-beryl.vercel.app) - あなたの仕事を支える専属AIパートナー (Next.js + Supabase + Claude)
+  <br>*PDFも会議メモもURLも、放り込むだけ。AIが3層構造に分解し、資料同士を自動で連結しデータメッシュを構築。情報が網の目のように繋がり、話し言葉で横断検索・対話できる。*
+
 ---
 
 ### Blog Posts
