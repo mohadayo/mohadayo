@@ -32,9 +32,9 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude Codeのサブエージェント並列実行—コスト管理と設計のハマりどころ](https://mohablog.com/claude-code-subagents-cost/) (2026-04-19)
 - [Claude Codeのカスタムスラッシュコマンド作り方—Skills統合と引数設計](https://mohablog.com/claude-code-custom-slash-commands/) (2026-04-18)
 - [Python asyncioのTaskGroup実践—gatherから乗り換えるべき理由](https://mohablog.com/python-asyncio-taskgroup-vs-gather/) (2026-04-17)
-- [GORMのN+1問題とマイグレーション設計—Goで踏みやすい罠と回避策](https://mohablog.com/go-gorm-n1-migration-pitfalls/) (2026-04-16)
 <!-- /blog -->
 
 ### Qiita Posts
@@ -47,5 +47,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/04/18 21:58 JST</sub>
+  <sub>Last updated: 2026/04/19 21:57 JST</sub>
 </p>
