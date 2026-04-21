@@ -32,9 +32,9 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude Code Plan Modeの使い方—auto-acceptへの切替判断](https://mohablog.com/claude-code-plan-mode/) (2026-04-21)
 - [Claude Codeのセキュリティ対策—Auto modeとHooksで固める3層防御](https://mohablog.com/claude-code-security-3-layer/) (2026-04-20)
 - [Claude Codeのサブエージェント並列実行—コスト管理と設計のハマりどころ](https://mohablog.com/claude-code-subagents-cost/) (2026-04-19)
-- [Claude Codeのカスタムスラッシュコマンド作り方—Skills統合と引数設計](https://mohablog.com/claude-code-custom-slash-commands/) (2026-04-18)
 <!-- /blog -->
 
 ### Qiita Posts
@@ -47,5 +47,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/04/20 22:25 JST</sub>
+  <sub>Last updated: 2026/04/21 22:21 JST</sub>
 </p>
