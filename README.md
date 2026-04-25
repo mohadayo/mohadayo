@@ -24,10 +24,6 @@
 - [rootage-quiz](https://github.com/mohadayo/rootage-quiz) - 新人エンジニア育成アプリ (Go + Vue 3)
   <br><sub>*[ルーテイジ株式会社](https://www.rootage.co.jp/)様より受注・納品。許可を得てソースコードを公開しています。*</sub>
 
-- [echo-query](https://github.com/mohadayo/echo-query) - エンジニア知識クイズ × クエリ DSL × 実コード実行の実験プロトタイプ（御蔵入り）
-
-- [Parallax Run](https://github.com/mohadayo/parallax-run) - 3/4 視点・遠近錯覚ランナーのプロトタイプ（お蔵入り）
-
 - [盆栽ブランチ](https://bonsai-branch.pages.dev) - 盆栽みたいに枝を育てて、git の主要操作を覚える 20 問のパズル (React + TypeScript)
 
 - [Lantern](https://lantern-snowy.vercel.app) - あなたの苦悩を過去に乗り越えた人と話せる。お悩み相談マッチングアプリ (Next.js + Supabase)
