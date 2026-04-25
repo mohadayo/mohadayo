@@ -34,20 +34,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [PyJWTで作るFastAPIのJWT認証—pwdlib対応とリフレッシュ実装](https://mohablog.com/fastapi-jwt-auth-pyjwt-pwdlib/) (2026-04-25)
 - [SQLAlchemy 2.0の新API—select()と型ヒント対応で変わった書き方](https://mohablog.com/sqlalchemy-2-new-select-typing/) (2026-04-24)
 - [Claude Code memoryとは？CLAUDE.mdとの違いと運用設計の実例](https://mohablog.com/claude-code-memory-vs-claudemd/) (2026-04-24)
-- [Claude Code worktreeの使い方—並列開発でセッション衝突を防ぐ設計](https://mohablog.com/claude-code-worktree-parallel/) (2026-04-23)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
 - [Claude Code v2.1.116〜2.1.119 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/07990889753139d056ff) (2026-04-24)
 - [Claude Codeのコスト最適化、/costだけで終わる話じゃない。Opus 4.7時代の完全チートシート](https://qiita.com/moha0918_/items/b004c2f6070ee1c34d85) (2026-04-17)
-- [今日のClaude Code v2.1.112 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/6a21a6b76828fc7529af) (2026-04-17)
+- [Claude Code v2.1.112 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/6a21a6b76828fc7529af) (2026-04-17)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/04/24 22:19 JST</sub>
+  <sub>Last updated: 2026/04/25 22:00 JST</sub>
 </p>
