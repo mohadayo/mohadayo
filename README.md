@@ -24,9 +24,9 @@
 - [rootage-quiz](https://github.com/mohadayo/rootage-quiz) - 新人エンジニア育成アプリ (Go + Vue 3 + PostgreSQL)
   <br><sub>*[ルーテイジ株式会社](https://www.rootage.co.jp/)様より受注・納品。許可を得てソースコードを公開しています。*</sub>
 
-- [lantern](https://lantern-snowy.vercel.app) - あなたの苦悩を過去に乗り越えた人と話せる。お悩み相談マッチングアプリ (Next.js + Supabase)
+- [Lantern](https://lantern-snowy.vercel.app) - あなたの苦悩を過去に乗り越えた人と話せる。お悩み相談マッチングアプリ (Next.js + Supabase)
 
-- [kagebunshin](https://kagebunshin-beryl.vercel.app) - 手元の資料を放り込むだけ。あなたの仕事を何でも知っている専属AIパートナー (Next.js + Supabase)
+- [KAGEBUNSHIN](https://kagebunshin-beryl.vercel.app) - 手元の資料を放り込むだけ。あなたの仕事を何でも知っている専属AIパートナー (Next.js + Supabase)
 
 ---
 
