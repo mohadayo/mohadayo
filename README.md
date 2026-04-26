@@ -34,9 +34,9 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude Code Skillの作り方—SKILL.md設計とtrigger発動の勘所](https://mohablog.com/claude-code-skill-trigger-design/) (2026-04-26)
 - [PyJWTで作るFastAPIのJWT認証—pwdlib対応とリフレッシュ実装](https://mohablog.com/fastapi-jwt-auth-pyjwt-pwdlib/) (2026-04-25)
 - [SQLAlchemy 2.0の新API—select()と型ヒント対応で変わった書き方](https://mohablog.com/sqlalchemy-2-new-select-typing/) (2026-04-24)
-- [Claude Code memoryとは？CLAUDE.mdとの違いと運用設計の実例](https://mohablog.com/claude-code-memory-vs-claudemd/) (2026-04-24)
 <!-- /blog -->
 
 ### Qiita Posts
@@ -49,5 +49,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/04/25 22:00 JST</sub>
+  <sub>Last updated: 2026/04/26 22:02 JST</sub>
 </p>
