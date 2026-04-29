@@ -36,20 +36,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude Codeプラグインの作り方—marketplace.json設計と配布の流れ](https://mohablog.com/claude-code-plugin-marketplace/) (2026-04-29)
+- [Go sqlxで書く型安全な生SQL—database/sqlからの乗り換え手順と落とし穴](https://mohablog.com/go-sqlx-typesafe-sql/) (2026-04-28)
 - [Claude Code permissions—allow/denyの落とし穴と評価順序](https://mohablog.com/claude-code-permissions-design/) (2026-04-27)
-- [Claude Code Skillの作り方—SKILL.md設計とtrigger発動の勘所](https://mohablog.com/claude-code-skill-trigger-design/) (2026-04-26)
-- [PyJWTで作るFastAPIのJWT認証—pwdlib対応とリフレッシュ実装](https://mohablog.com/fastapi-jwt-auth-pyjwt-pwdlib/) (2026-04-25)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.121 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/fbf4e1c6ed0629c2c248) (2026-04-29)
 - [Claude Code v2.1.120 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/54918006b98ea36880cc) (2026-04-27)
 - [Claude Code v2.1.116〜2.1.119 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/07990889753139d056ff) (2026-04-24)
-- [Claude Codeのコスト最適化、/costだけで終わる話じゃない。Opus 4.7時代の完全チートシート](https://qiita.com/moha0918_/items/b004c2f6070ee1c34d85) (2026-04-17)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/04/29 18:00 JST</sub>
+  <sub>Last updated: 2026/04/29 22:51 JST</sub>
 </p>
