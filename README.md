@@ -21,7 +21,7 @@
 
 ### Products
 
-- [shiki-cafe](https://shiki-cafe.vercel.app) - 宮崎の老舗喫茶店「珈琲専門店 詩季」と姉妹店「喫茶 森の詩季」の公式サイト (Next.js + TypeScript)
+- [珈琲専門店 詩季HP](https://shiki-cafe.vercel.app) - 宮崎のレトロ喫茶店「詩季」と姉妹店「森の詩季」の公式サイト (Next.js + TypeScript)
 
 - [rootage-quiz](https://github.com/mohadayo/rootage-quiz) - 新人エンジニア育成アプリ (Go + Vue 3)
   <br><sub>*[ルーテイジ株式会社](https://www.rootage.co.jp/)様より受注・納品。許可を得てソースコードを公開しています。*</sub>
@@ -51,5 +51,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/04/29 17:50 JST</sub>
+  <sub>Last updated: 2026/04/29 17:55 JST</sub>
 </p>
