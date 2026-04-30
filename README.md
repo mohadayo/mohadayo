@@ -36,20 +36,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude Code output styleの違いとカスタムMarkdownの作り方](https://mohablog.com/claude-code-output-style/) (2026-04-30)
 - [Claude Codeプラグインの作り方—marketplace.json設計と配布の流れ](https://mohablog.com/claude-code-plugin-marketplace/) (2026-04-29)
 - [Go sqlxで書く型安全な生SQL—database/sqlからの乗り換え手順と落とし穴](https://mohablog.com/go-sqlx-typesafe-sql/) (2026-04-28)
-- [Claude Code permissions—allow/denyの落とし穴と評価順序](https://mohablog.com/claude-code-permissions-design/) (2026-04-27)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.122〜v2.1.123 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/6241bfa89543f382f375) (2026-04-30)
 - [Claude Code v2.1.121 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/fbf4e1c6ed0629c2c248) (2026-04-29)
 - [Claude Code v2.1.120 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/54918006b98ea36880cc) (2026-04-27)
-- [Claude Code v2.1.116〜2.1.119 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/07990889753139d056ff) (2026-04-24)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/04/29 22:51 JST</sub>
+  <sub>Last updated: 2026/04/30 22:49 JST</sub>
 </p>
