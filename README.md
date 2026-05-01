@@ -36,9 +36,9 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Go structタグを読み解く—omitempty・json・reflectの仕組み](https://mohablog.com/go-struct-tags-reflect-guide/) (2026-05-01)
 - [Claude Code output styleの違いとカスタムMarkdownの作り方](https://mohablog.com/claude-code-output-style/) (2026-04-30)
 - [Claude Codeプラグインの作り方—marketplace.json設計と配布の流れ](https://mohablog.com/claude-code-plugin-marketplace/) (2026-04-29)
-- [Go sqlxで書く型安全な生SQL—database/sqlからの乗り換え手順と落とし穴](https://mohablog.com/go-sqlx-typesafe-sql/) (2026-04-28)
 <!-- /blog -->
 
 ### Qiita Posts
@@ -51,5 +51,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/04/30 22:49 JST</sub>
+  <sub>Last updated: 2026/05/01 22:15 JST</sub>
 </p>
