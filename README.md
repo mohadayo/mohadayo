@@ -36,9 +36,9 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude Code statuslineの仕組み—JSON入力と自作スクリプトの勘所](https://mohablog.com/claude-code-statusline-guide/) (2026-05-04)
 - [Go slogで始める構造化ログ運用—HandlerとLogValuerの使いどころ](https://mohablog.com/go-slog-handler-logvaluer/) (2026-05-03)
 - [Go structタグを読み解く—omitempty・json・reflectの仕組み](https://mohablog.com/go-struct-tags-reflect-guide/) (2026-05-01)
-- [Claude Code output styleの違いとカスタムMarkdownの作り方](https://mohablog.com/claude-code-output-style/) (2026-04-30)
 <!-- /blog -->
 
 ### Qiita Posts
@@ -51,5 +51,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/05/03 22:05 JST</sub>
+  <sub>Last updated: 2026/05/04 22:54 JST</sub>
 </p>
