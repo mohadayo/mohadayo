@@ -36,9 +36,9 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude Code SessionStart hookと4つのsourceの使い分け](https://mohablog.com/claude-code-sessionstart-hook/) (2026-05-06)
 - [Goのembedで作るSPA配信サーバー—all:とfs.Subで1バイナリ化する](https://mohablog.com/go-embed-spa-server/) (2026-05-05)
 - [Claude Code statuslineの仕組み—JSON入力と自作スクリプトの勘所](https://mohablog.com/claude-code-statusline-guide/) (2026-05-04)
-- [Go slogで始める構造化ログ運用—HandlerとLogValuerの使いどころ](https://mohablog.com/go-slog-handler-logvaluer/) (2026-05-03)
 <!-- /blog -->
 
 ### Qiita Posts
@@ -51,5 +51,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/05/06 10:22 JST</sub>
+  <sub>Last updated: 2026/05/06 23:04 JST</sub>
 </p>
