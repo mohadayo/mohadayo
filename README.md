@@ -36,20 +36,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Goのembedで作るSPA配信サーバー—all:とfs.Subで1バイナリ化する](https://mohablog.com/go-embed-spa-server/) (2026-05-05)
 - [Claude Code statuslineの仕組み—JSON入力と自作スクリプトの勘所](https://mohablog.com/claude-code-statusline-guide/) (2026-05-04)
 - [Go slogで始める構造化ログ運用—HandlerとLogValuerの使いどころ](https://mohablog.com/go-slog-handler-logvaluer/) (2026-05-03)
-- [Go structタグを読み解く—omitempty・json・reflectの仕組み](https://mohablog.com/go-struct-tags-reflect-guide/) (2026-05-01)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.128 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/594b6094fad9a479dd9e) (2026-05-05)
 - [Claude Code v2.1.126 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/e3ddb3764b70912ae6c5) (2026-05-02)
 - [Claude Code v2.1.122〜v2.1.123 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/6241bfa89543f382f375) (2026-04-30)
-- [Claude Code v2.1.121 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/fbf4e1c6ed0629c2c248) (2026-04-29)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/05/04 22:54 JST</sub>
+  <sub>Last updated: 2026/05/06 10:22 JST</sub>
 </p>
