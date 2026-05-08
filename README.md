@@ -38,20 +38,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Goのgqlgen入門：dataloadgenでN+1を潰すスキーマファースト設計](https://mohablog.com/go-gqlgen-dataloadgen-n1/) (2026-05-08)
 - [GoでJWT認証ミドルウェアを書く—golang-jwt v5とalg=none対策](https://mohablog.com/go-jwt-v5-middleware/) (2026-05-07)
 - [Alembicのautogenerateが拾わない変更と対処法](https://mohablog.com/alembic-autogenerate-limits/) (2026-05-07)
-- [Claude Code SessionStart hookと4つのsourceの使い分け](https://mohablog.com/claude-code-sessionstart-hook/) (2026-05-06)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.132 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/9dbf420099a35a044f82) (2026-05-08)
 - [Claude Code v2.1.129〜v2.1.131 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/ca528c5eaee11b779dbf) (2026-05-07)
 - [Claude Code v2.1.128 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/594b6094fad9a479dd9e) (2026-05-05)
-- [Claude Code v2.1.126 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/e3ddb3764b70912ae6c5) (2026-05-02)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/05/07 23:06 JST</sub>
+  <sub>Last updated: 2026/05/08 22:28 JST</sub>
 </p>
