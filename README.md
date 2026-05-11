@@ -38,9 +38,9 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude Code auto-compactの仕組みと/compactの使い方](https://mohablog.com/claude-code-auto-compact/) (2026-05-11)
+- [PythonのCelery × Redisで作る非同期タスクキュー入門](https://mohablog.com/celery-redis-task-queue-pydantic/) (2026-05-11)
 - [Claude Code -p フラグの使い方 &#8211; スクリプトから呼ぶJSON出力と再開](https://mohablog.com/claude-code-print-flag/) (2026-05-09)
-- [Goのgqlgen入門：dataloadgenでN+1を潰すスキーマファースト設計](https://mohablog.com/go-gqlgen-dataloadgen-n1/) (2026-05-08)
-- [GoでJWT認証ミドルウェアを書く—golang-jwt v5とalg=none対策](https://mohablog.com/go-jwt-v5-middleware/) (2026-05-07)
 <!-- /blog -->
 
 ### Qiita Posts
@@ -53,5 +53,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/05/10 22:13 JST</sub>
+  <sub>Last updated: 2026/05/11 23:45 JST</sub>
 </p>
