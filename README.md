@@ -38,20 +38,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Go Echo v4のミドルウェア設計—Skipperで認証を柔軟に外す実装パターン](https://mohablog.com/go-echo-v4-middleware/) (2026-05-12)
 - [Claude Code auto-compactの仕組みと/compactの使い方](https://mohablog.com/claude-code-auto-compact/) (2026-05-11)
 - [PythonのCelery × Redisで作る非同期タスクキュー入門](https://mohablog.com/celery-redis-task-queue-pydantic/) (2026-05-11)
-- [Claude Code -p フラグの使い方 &#8211; スクリプトから呼ぶJSON出力と再開](https://mohablog.com/claude-code-print-flag/) (2026-05-09)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.137〜v2.1.139 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/9a85125fe731e2fc306a) (2026-05-12)
 - [Claude Code v2.1.133〜v2.1.136 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/f55caa82337f0894a793) (2026-05-09)
 - [Claude Code v2.1.132 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/9dbf420099a35a044f82) (2026-05-08)
-- [Claude Code v2.1.129〜v2.1.131 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/ca528c5eaee11b779dbf) (2026-05-07)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/05/11 23:45 JST</sub>
+  <sub>Last updated: 2026/05/12 23:19 JST</sub>
 </p>
