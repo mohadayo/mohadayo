@@ -45,13 +45,13 @@
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.140 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/71ae2b61978505b1560d) (2026-05-13)
 - [Claude Code v2.1.137〜v2.1.139 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/9a85125fe731e2fc306a) (2026-05-12)
 - [Claude Code v2.1.133〜v2.1.136 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/f55caa82337f0894a793) (2026-05-09)
-- [Claude Code v2.1.132 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/9dbf420099a35a044f82) (2026-05-08)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/05/12 23:19 JST</sub>
+  <sub>Last updated: 2026/05/13 23:28 JST</sub>
 </p>
