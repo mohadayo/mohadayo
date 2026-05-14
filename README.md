@@ -38,9 +38,9 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude CodeのバックグラウンドBash &#8211; Ctrl+Bで長時間タスクを並走する](https://mohablog.com/claude-code-background-bash/) (2026-05-14)
 - [Go Echo v4のミドルウェア設計—Skipperで認証を柔軟に外す実装パターン](https://mohablog.com/go-echo-v4-middleware/) (2026-05-12)
 - [Claude Code auto-compactの仕組みと/compactの使い方](https://mohablog.com/claude-code-auto-compact/) (2026-05-11)
-- [PythonのCelery × Redisで作る非同期タスクキュー入門](https://mohablog.com/celery-redis-task-queue-pydantic/) (2026-05-11)
 <!-- /blog -->
 
 ### Qiita Posts
@@ -53,5 +53,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/05/13 23:28 JST</sub>
+  <sub>Last updated: 2026/05/14 23:05 JST</sub>
 </p>
