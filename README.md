@@ -38,20 +38,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Pythonのruff入門 &#8211; pyproject.toml設定とCI組み込みの書き方](https://mohablog.com/python-ruff-config-ci-guide/) (2026-05-15)
 - [Claude CodeのバックグラウンドBash &#8211; Ctrl+Bで長時間タスクを並走する](https://mohablog.com/claude-code-background-bash/) (2026-05-14)
 - [Go Echo v4のミドルウェア設計—Skipperで認証を柔軟に外す実装パターン](https://mohablog.com/go-echo-v4-middleware/) (2026-05-12)
-- [Claude Code auto-compactの仕組みと/compactの使い方](https://mohablog.com/claude-code-auto-compact/) (2026-05-11)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.141 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/991c2556a7f9fe035d06) (2026-05-15)
 - [Claude Code v2.1.140 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/71ae2b61978505b1560d) (2026-05-13)
 - [Claude Code v2.1.137〜v2.1.139 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/9a85125fe731e2fc306a) (2026-05-12)
-- [Claude Code v2.1.133〜v2.1.136 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/f55caa82337f0894a793) (2026-05-09)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/05/14 23:05 JST</sub>
+  <sub>Last updated: 2026/05/15 23:02 JST</sub>
 </p>
