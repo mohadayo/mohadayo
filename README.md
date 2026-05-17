@@ -38,20 +38,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Pythonデコレータの仕組みと自作—functools.wrapsで関数情報を保つ](https://mohablog.com/python-decorator-wraps/) (2026-05-17)
 - [Claude Code &#8211;continue/&#8211;resumeの違いと使い分け](https://mohablog.com/claude-code-continue-resume/) (2026-05-16)
 - [Pythonのruff入門 &#8211; pyproject.toml設定とCI組み込みの書き方](https://mohablog.com/python-ruff-config-ci-guide/) (2026-05-15)
-- [Claude CodeのバックグラウンドBash &#8211; Ctrl+Bで長時間タスクを並走する](https://mohablog.com/claude-code-background-bash/) (2026-05-14)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.142〜v2.1.143 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/4a177eb40bcf7fb66fba) (2026-05-17)
 - [Claude Code v2.1.141 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/991c2556a7f9fe035d06) (2026-05-15)
 - [Claude Code v2.1.140 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/71ae2b61978505b1560d) (2026-05-13)
-- [Claude Code v2.1.137〜v2.1.139 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/9a85125fe731e2fc306a) (2026-05-12)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/05/16 22:17 JST</sub>
+  <sub>Last updated: 2026/05/17 22:15 JST</sub>
 </p>
