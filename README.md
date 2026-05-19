@@ -38,9 +38,9 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude Code Explore/Plan/general-purposeの役割比較](https://mohablog.com/claude-code-subagents-roles/) (2026-05-19)
 - [Pyrefly v1.0入門—Meta製の高速Python型チェッカーをmypyから移行](https://mohablog.com/pyrefly-v1-mypy-migration/) (2026-05-18)
 - [Pythonデコレータの仕組みと自作—functools.wrapsで関数情報を保つ](https://mohablog.com/python-decorator-wraps/) (2026-05-17)
-- [Claude Code &#8211;continue/&#8211;resumeの違いと使い分け](https://mohablog.com/claude-code-continue-resume/) (2026-05-16)
 <!-- /blog -->
 
 ### Qiita Posts
@@ -53,5 +53,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/05/19 00:27 JST</sub>
+  <sub>Last updated: 2026/05/19 23:56 JST</sub>
 </p>
