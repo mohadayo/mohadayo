@@ -38,20 +38,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude Codeのチェックポイントとrewindの使い分け方](https://mohablog.com/claude-code-checkpoint-rewind/) (2026-05-20)
 - [Claude Code Explore/Plan/general-purposeの役割比較](https://mohablog.com/claude-code-subagents-roles/) (2026-05-19)
 - [Pyrefly v1.0入門—Meta製の高速Python型チェッカーをmypyから移行](https://mohablog.com/pyrefly-v1-mypy-migration/) (2026-05-18)
-- [Pythonデコレータの仕組みと自作—functools.wrapsで関数情報を保つ](https://mohablog.com/python-decorator-wraps/) (2026-05-17)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.144〜v2.1.145 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/2df74a3fd85dcbe60cad) (2026-05-20)
 - [Claude Code v2.1.142〜v2.1.143 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/4a177eb40bcf7fb66fba) (2026-05-17)
 - [Claude Code v2.1.141 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/991c2556a7f9fe035d06) (2026-05-15)
-- [Claude Code v2.1.140 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/71ae2b61978505b1560d) (2026-05-13)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/05/19 23:56 JST</sub>
+  <sub>Last updated: 2026/05/20 23:57 JST</sub>
 </p>
