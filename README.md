@@ -38,9 +38,9 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Python httpxとrequestsの違い：移行で変わる仕様と書き換え方](https://mohablog.com/python-httpx-vs-requests/) (2026-05-21)
 - [Claude Codeのチェックポイントとrewindの使い分け方](https://mohablog.com/claude-code-checkpoint-rewind/) (2026-05-20)
 - [Claude Code Explore/Plan/general-purposeの役割比較](https://mohablog.com/claude-code-subagents-roles/) (2026-05-19)
-- [Pyrefly v1.0入門—Meta製の高速Python型チェッカーをmypyから移行](https://mohablog.com/pyrefly-v1-mypy-migration/) (2026-05-18)
 <!-- /blog -->
 
 ### Qiita Posts
@@ -53,5 +53,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/05/20 23:57 JST</sub>
+  <sub>Last updated: 2026/05/22 00:19 JST</sub>
 </p>
