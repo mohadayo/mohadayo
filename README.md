@@ -38,20 +38,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Pythonでredis-pyを使うキャッシュ実装：Cache-AsideとTTL設計](https://mohablog.com/python-redis-py-cache-aside/) (2026-05-22)
 - [Python httpxとrequestsの違い：移行で変わる仕様と書き換え方](https://mohablog.com/python-httpx-vs-requests/) (2026-05-21)
 - [Claude Codeのチェックポイントとrewindの使い分け方](https://mohablog.com/claude-code-checkpoint-rewind/) (2026-05-20)
-- [Claude Code Explore/Plan/general-purposeの役割比較](https://mohablog.com/claude-code-subagents-roles/) (2026-05-19)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.147 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/9b8a0e25b3daaae074c3) (2026-05-22)
 - [Claude Code v2.1.144〜v2.1.145 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/2df74a3fd85dcbe60cad) (2026-05-20)
 - [Claude Code v2.1.142〜v2.1.143 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/4a177eb40bcf7fb66fba) (2026-05-17)
-- [Claude Code v2.1.141 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/991c2556a7f9fe035d06) (2026-05-15)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/05/22 00:19 JST</sub>
+  <sub>Last updated: 2026/05/22 23:34 JST</sub>
 </p>
