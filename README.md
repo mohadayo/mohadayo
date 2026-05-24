@@ -38,20 +38,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude Code Sandboxの設定—~/.sshまで読める初期状態の塞ぎ方](https://mohablog.com/claude-code-sandbox-setup/) (2026-05-24)
 - [Goのerrgroupで並行処理のエラーを集約する—WaitGroupとの使い分け](https://mohablog.com/go-errgroup-error-handling/) (2026-05-23)
 - [Pythonでredis-pyを使うキャッシュ実装：Cache-AsideとTTL設計](https://mohablog.com/python-redis-py-cache-aside/) (2026-05-22)
-- [Python httpxとrequestsの違い：移行で変わる仕様と書き換え方](https://mohablog.com/python-httpx-vs-requests/) (2026-05-21)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.149〜v2.1.150 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/df5c2ebc2336b901c3c4) (2026-05-24)
 - [Claude Code v2.1.148 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/82124e21108d4a2a3535) (2026-05-23)
 - [Claude Code v2.1.147 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/9b8a0e25b3daaae074c3) (2026-05-22)
-- [Claude Code v2.1.144〜v2.1.145 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/2df74a3fd85dcbe60cad) (2026-05-20)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/05/23 22:20 JST</sub>
+  <sub>Last updated: 2026/05/24 22:21 JST</sub>
 </p>
