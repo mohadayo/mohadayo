@@ -38,9 +38,9 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Polarsのlazy APIで速くなる仕組み—pandasから書き換えて実測](https://mohablog.com/polars-vs-pandas-lazy-api/) (2026-05-25)
 - [Claude Code Sandboxの設定—~/.sshまで読める初期状態の塞ぎ方](https://mohablog.com/claude-code-sandbox-setup/) (2026-05-24)
 - [Goのerrgroupで並行処理のエラーを集約する—WaitGroupとの使い分け](https://mohablog.com/go-errgroup-error-handling/) (2026-05-23)
-- [Pythonでredis-pyを使うキャッシュ実装：Cache-AsideとTTL設計](https://mohablog.com/python-redis-py-cache-aside/) (2026-05-22)
 <!-- /blog -->
 
 ### Qiita Posts
@@ -53,5 +53,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/05/24 22:21 JST</sub>
+  <sub>Last updated: 2026/05/25 23:49 JST</sub>
 </p>
