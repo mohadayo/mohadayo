@@ -38,9 +38,9 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Python 3.14のfree-threadingでGILを外す—効果と使いどころ](https://mohablog.com/python-free-threading-gil/) (2026-05-26)
 - [Polarsのlazy APIで速くなる仕組み—pandasから書き換えて実測](https://mohablog.com/polars-vs-pandas-lazy-api/) (2026-05-25)
 - [Claude Code Sandboxの設定—~/.sshまで読める初期状態の塞ぎ方](https://mohablog.com/claude-code-sandbox-setup/) (2026-05-24)
-- [Goのerrgroupで並行処理のエラーを集約する—WaitGroupとの使い分け](https://mohablog.com/go-errgroup-error-handling/) (2026-05-23)
 <!-- /blog -->
 
 ### Qiita Posts
@@ -53,5 +53,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/05/25 23:49 JST</sub>
+  <sub>Last updated: 2026/05/27 00:22 JST</sub>
 </p>
