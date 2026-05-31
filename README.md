@@ -38,20 +38,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude CodeのOpenTelemetry設定—チームのトークン消費を可視化する](https://mohablog.com/claude-code-opentelemetry/) (2026-05-31)
 - [Claude Code ultrathinkとeffortレベルで思考の深さを制御する](https://mohablog.com/claude-code-ultrathink-effort/) (2026-05-30)
 - [Goのイテレータを自作する—range over funcとiter.Pullの書き方](https://mohablog.com/go-iterator-range-over-func/) (2026-05-29)
-- [testing/synctestでGoの並行処理テストを決定的にする方法](https://mohablog.com/go-synctest-concurrent-test/) (2026-05-27)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.158 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/eb81e3eaf92809d5aa82) (2026-05-31)
 - [Claude Code v2.1.156〜v2.1.157 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/c3ffb7ef1058e2403bf1) (2026-05-30)
 - [Claude Code v2.1.153〜v2.1.154 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/d42ad8905e76c9b7a0c1) (2026-05-29)
-- [Claude Code v2.1.152 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/408f349397dd1dda3cc3) (2026-05-28)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/05/30 22:24 JST</sub>
+  <sub>Last updated: 2026/05/31 22:40 JST</sub>
 </p>
