@@ -38,9 +38,9 @@
 
 ### Blog Posts
 <!-- blog -->
+- [msgspec vs Pydantic—Python高速シリアライズと型検証の使い分け](https://mohablog.com/msgspec-vs-pydantic/) (2026-06-01)
 - [Claude CodeのOpenTelemetry設定—チームのトークン消費を可視化する](https://mohablog.com/claude-code-opentelemetry/) (2026-05-31)
 - [Claude Code ultrathinkとeffortレベルで思考の深さを制御する](https://mohablog.com/claude-code-ultrathink-effort/) (2026-05-30)
-- [Goのイテレータを自作する—range over funcとiter.Pullの書き方](https://mohablog.com/go-iterator-range-over-func/) (2026-05-29)
 <!-- /blog -->
 
 ### Qiita Posts
@@ -53,5 +53,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/05/31 22:40 JST</sub>
+  <sub>Last updated: 2026/06/02 02:34 JST</sub>
 </p>
