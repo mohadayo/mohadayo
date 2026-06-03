@@ -38,20 +38,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude Code Hooksのprompt型/agent型とは—5つの使い分け](https://mohablog.com/claude-code-hook-types/) (2026-06-03)
 - [encoding/json/v2でGoのJSONはこう変わる—omitempty再定義](https://mohablog.com/go-encoding-json-v2/) (2026-06-02)
 - [msgspec vs Pydantic—Python高速シリアライズと型検証の使い分け](https://mohablog.com/msgspec-vs-pydantic/) (2026-06-01)
-- [Claude CodeのOpenTelemetry設定—チームのトークン消費を可視化する](https://mohablog.com/claude-code-opentelemetry/) (2026-05-31)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.159〜v2.1.161 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/1c20a1401487b278ecc9) (2026-06-03)
 - [Claude Code v2.1.158 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/eb81e3eaf92809d5aa82) (2026-05-31)
 - [Claude Code v2.1.156〜v2.1.157 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/c3ffb7ef1058e2403bf1) (2026-05-30)
-- [Claude Code v2.1.153〜v2.1.154 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/d42ad8905e76c9b7a0c1) (2026-05-29)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/06/03 01:19 JST</sub>
+  <sub>Last updated: 2026/06/04 01:43 JST</sub>
 </p>
