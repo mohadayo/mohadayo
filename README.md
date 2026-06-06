@@ -38,9 +38,9 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Pythonのt-string入門—f-stringとの違いと安全な文字列生成](https://mohablog.com/python-t-strings/) (2026-06-06)
 - [Go標準ServeMuxのルーティング—メソッド指定とワイルドカードの優先順位](https://mohablog.com/go-servemux-routing/) (2026-06-04)
 - [Claude Code Hooksのprompt型/agent型とは—5つの使い分け](https://mohablog.com/claude-code-hook-types/) (2026-06-03)
-- [encoding/json/v2でGoのJSONはこう変わる—omitempty再定義](https://mohablog.com/go-encoding-json-v2/) (2026-06-02)
 <!-- /blog -->
 
 ### Qiita Posts
@@ -53,5 +53,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/06/05 23:45 JST</sub>
+  <sub>Last updated: 2026/06/06 22:27 JST</sub>
 </p>
