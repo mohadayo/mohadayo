@@ -38,20 +38,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude Code Agent Teamsの始め方—サブエージェントと何が違うのか](https://mohablog.com/claude-code-agent-teams/) (2026-06-07)
 - [Pythonのt-string入門—f-stringとの違いと安全な文字列生成](https://mohablog.com/python-t-strings/) (2026-06-06)
 - [Go標準ServeMuxのルーティング—メソッド指定とワイルドカードの優先順位](https://mohablog.com/go-servemux-routing/) (2026-06-04)
-- [Claude Code Hooksのprompt型/agent型とは—5つの使い分け](https://mohablog.com/claude-code-hook-types/) (2026-06-03)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.166〜v2.1.167 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/dab2d73fbb0ce6eea33d) (2026-06-07)
+- [Claude Code v2.1.165 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/c697a35ee9b8a8fa9805) (2026-06-06)
 - [Claude Code v2.1.163 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/6b34f99ee37efd372834) (2026-06-05)
-- [Claude Code v2.1.162 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/c31d5e74c50848db7859) (2026-06-04)
-- [Claude Code v2.1.159〜v2.1.161 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/1c20a1401487b278ecc9) (2026-06-03)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/06/06 22:27 JST</sub>
+  <sub>Last updated: 2026/06/07 22:47 JST</sub>
 </p>
