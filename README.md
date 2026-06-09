@@ -53,5 +53,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/06/09 00:45 JST</sub>
+  <sub>Last updated: 2026/06/09 23:45 JST</sub>
 </p>
