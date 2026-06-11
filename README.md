@@ -38,20 +38,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude Code /add-dirの使い方—複数リポジトリを1セッションで触る](https://mohablog.com/claude-code-add-dir/) (2026-06-11)
 - [Claude Code /contextの読み方—起動直後に何がトークンを消費するか](https://mohablog.com/claude-code-context-command/) (2026-06-10)
 - [Claude Code Agent Teamsの始め方—サブエージェントと何が違うのか](https://mohablog.com/claude-code-agent-teams/) (2026-06-07)
-- [Pythonのt-string入門—f-stringとの違いと安全な文字列生成](https://mohablog.com/python-t-strings/) (2026-06-06)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.172 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/90ccc7a4c0595a51c1cf) (2026-06-11)
 - [Claude Code v2.1.169〜v2.1.170 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/72904f7295eb568f9d4e) (2026-06-10)
 - [Claude Code v2.1.168 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/82494952b384c4e2c208) (2026-06-08)
-- [Claude Code v2.1.166〜v2.1.167 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/dab2d73fbb0ce6eea33d) (2026-06-07)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/06/11 00:28 JST</sub>
+  <sub>Last updated: 2026/06/12 00:55 JST</sub>
 </p>
