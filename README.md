@@ -38,9 +38,9 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Go slices/mapsパッケージ実践—自前ループを標準関数に置き換える](https://mohablog.com/go-slices-maps-package/) (2026-06-12)
 - [Claude Code /add-dirの使い方—複数リポジトリを1セッションで触る](https://mohablog.com/claude-code-add-dir/) (2026-06-11)
 - [Claude Code /contextの読み方—起動直後に何がトークンを消費するか](https://mohablog.com/claude-code-context-command/) (2026-06-10)
-- [Claude Code Agent Teamsの始め方—サブエージェントと何が違うのか](https://mohablog.com/claude-code-agent-teams/) (2026-06-07)
 <!-- /blog -->
 
 ### Qiita Posts
@@ -53,5 +53,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/06/12 00:55 JST</sub>
+  <sub>Last updated: 2026/06/12 23:53 JST</sub>
 </p>
