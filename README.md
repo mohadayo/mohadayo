@@ -38,20 +38,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Goのtoolディレクティブで開発ツールを管理する—tools.goからの移行手順](https://mohablog.com/go-tool-directive/) (2026-06-13)
 - [Go slices/mapsパッケージ実践—自前ループを標準関数に置き換える](https://mohablog.com/go-slices-maps-package/) (2026-06-12)
 - [Claude Code /add-dirの使い方—複数リポジトリを1セッションで触る](https://mohablog.com/claude-code-add-dir/) (2026-06-11)
-- [Claude Code /contextの読み方—起動直後に何がトークンを消費するか](https://mohablog.com/claude-code-context-command/) (2026-06-10)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.173〜v2.1.176｜availableModels の抜け道が塞がる｜毎日Changelog解説](https://qiita.com/moha0918_/items/397036a48b61dd257ef9) (2026-06-13)
 - [Claude Code v2.1.172 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/90ccc7a4c0595a51c1cf) (2026-06-11)
 - [Claude Code v2.1.169〜v2.1.170 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/72904f7295eb568f9d4e) (2026-06-10)
-- [Claude Code v2.1.168 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/82494952b384c4e2c208) (2026-06-08)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/06/12 23:53 JST</sub>
+  <sub>Last updated: 2026/06/13 22:54 JST</sub>
 </p>
