@@ -38,9 +38,9 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Goジェネリクスはいつ使うべきか—interfaceとの使い分けを実測で判断](https://mohablog.com/go-generics-vs-interface/) (2026-06-14)
 - [Goのtoolディレクティブで開発ツールを管理する—tools.goからの移行手順](https://mohablog.com/go-tool-directive/) (2026-06-13)
 - [Go slices/mapsパッケージ実践—自前ループを標準関数に置き換える](https://mohablog.com/go-slices-maps-package/) (2026-06-12)
-- [Claude Code /add-dirの使い方—複数リポジトリを1セッションで触る](https://mohablog.com/claude-code-add-dir/) (2026-06-11)
 <!-- /blog -->
 
 ### Qiita Posts
@@ -53,5 +53,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/06/13 22:54 JST</sub>
+  <sub>Last updated: 2026/06/14 22:57 JST</sub>
 </p>
