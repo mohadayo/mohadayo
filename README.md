@@ -38,9 +38,9 @@
 
 ### Blog Posts
 <!-- blog -->
+- [PythonでDuckDBを使う—CSV/ParquetをSQLのまま集計する](https://mohablog.com/python-duckdb-sql-parquet/) (2026-06-16)
 - [Go os.Rootでパストラバーサルを防ぐ—filepath.Cleanで不十分な理由](https://mohablog.com/go-os-root-path-traversal/) (2026-06-15)
 - [Goジェネリクスはいつ使うべきか—interfaceとの使い分けを実測で判断](https://mohablog.com/go-generics-vs-interface/) (2026-06-14)
-- [Goのtoolディレクティブで開発ツールを管理する—tools.goからの移行手順](https://mohablog.com/go-tool-directive/) (2026-06-13)
 <!-- /blog -->
 
 ### Qiita Posts
@@ -53,5 +53,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/06/16 02:11 JST</sub>
+  <sub>Last updated: 2026/06/17 01:46 JST</sub>
 </p>
