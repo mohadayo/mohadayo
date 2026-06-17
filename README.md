@@ -38,20 +38,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [GoでDocker マイクロサービスを構築する—multi-stage build &#038; Compose](https://mohablog.com/go-docker-microservices-multistage/) (2026-06-17)
 - [PythonでDuckDBを使う—CSV/ParquetをSQLのまま集計する](https://mohablog.com/python-duckdb-sql-parquet/) (2026-06-16)
 - [Go os.Rootでパストラバーサルを防ぐ—filepath.Cleanで不十分な理由](https://mohablog.com/go-os-root-path-traversal/) (2026-06-15)
-- [Goジェネリクスはいつ使うべきか—interfaceとの使い分けを実測で判断](https://mohablog.com/go-generics-vs-interface/) (2026-06-14)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.178〜v2.1.179｜Tool(param:value) でパラメータ単位の権限制御｜毎日Changelog解説](https://qiita.com/moha0918_/items/aa08e8d2c5cf5aa0e731) (2026-06-17)
 - [Claude Code v2.1.173〜v2.1.176｜availableModels の抜け道が塞がる｜毎日Changelog解説](https://qiita.com/moha0918_/items/397036a48b61dd257ef9) (2026-06-13)
 - [Claude Code v2.1.172 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/90ccc7a4c0595a51c1cf) (2026-06-11)
-- [Claude Code v2.1.169〜v2.1.170 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/72904f7295eb568f9d4e) (2026-06-10)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/06/17 01:46 JST</sub>
+  <sub>Last updated: 2026/06/18 00:21 JST</sub>
 </p>
