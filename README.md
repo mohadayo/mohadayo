@@ -38,9 +38,9 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude Code /model—opus・sonnet・opusplan の使い分け](https://mohablog.com/claude-code-model-aliases/) (2026-06-18)
 - [GoでDocker マイクロサービスを構築する—multi-stage build &#038; Compose](https://mohablog.com/go-docker-microservices-multistage/) (2026-06-17)
 - [PythonでDuckDBを使う—CSV/ParquetをSQLのまま集計する](https://mohablog.com/python-duckdb-sql-parquet/) (2026-06-16)
-- [Go os.Rootでパストラバーサルを防ぐ—filepath.Cleanで不十分な理由](https://mohablog.com/go-os-root-path-traversal/) (2026-06-15)
 <!-- /blog -->
 
 ### Qiita Posts
@@ -53,5 +53,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/06/18 00:21 JST</sub>
+  <sub>Last updated: 2026/06/19 00:18 JST</sub>
 </p>
