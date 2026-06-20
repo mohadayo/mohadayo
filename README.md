@@ -38,20 +38,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Go pgx v5入門—database/sqlにないbatchとCOPYを使う](https://mohablog.com/go-pgx-v5-batch-copy/) (2026-06-20)
 - [Typerで作るPython CLI—argparse・clickとの違いと書き方](https://mohablog.com/python-typer-cli-guide/) (2026-06-19)
 - [Claude Code /model—opus・sonnet・opusplan の使い分け](https://mohablog.com/claude-code-model-aliases/) (2026-06-18)
-- [GoでDocker マイクロサービスを構築する—multi-stage build &#038; Compose](https://mohablog.com/go-docker-microservices-multistage/) (2026-06-17)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.181〜v2.1.183｜auto modeが破壊的コマンドを止める｜毎日Changelog解説](https://qiita.com/moha0918_/items/74e97e0f8be8174d312e) (2026-06-20)
 - [Claude Code v2.1.178〜v2.1.179｜Tool(param:value) でパラメータ単位の権限制御｜毎日Changelog解説](https://qiita.com/moha0918_/items/aa08e8d2c5cf5aa0e731) (2026-06-17)
 - [Claude Code v2.1.173〜v2.1.176｜availableModels の抜け道が塞がる｜毎日Changelog解説](https://qiita.com/moha0918_/items/397036a48b61dd257ef9) (2026-06-13)
-- [Claude Code v2.1.172 リリース｜毎日Changelog解説](https://qiita.com/moha0918_/items/90ccc7a4c0595a51c1cf) (2026-06-11)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/06/20 00:09 JST</sub>
+  <sub>Last updated: 2026/06/20 22:57 JST</sub>
 </p>
