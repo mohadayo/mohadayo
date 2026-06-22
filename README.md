@@ -38,9 +38,9 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Python Protocolで型安全なDI設計—ABCとの違いと構造的部分型](https://mohablog.com/python-protocol-vs-abc/) (2026-06-22)
 - [math/rand/v2入門—Goの乱数でSeedが不要になった理由と書き換え](https://mohablog.com/go-math-rand-v2/) (2026-06-21)
 - [Go pgx v5入門—database/sqlにないbatchとCOPYを使う](https://mohablog.com/go-pgx-v5-batch-copy/) (2026-06-20)
-- [Typerで作るPython CLI—argparse・clickとの違いと書き方](https://mohablog.com/python-typer-cli-guide/) (2026-06-19)
 <!-- /blog -->
 
 ### Qiita Posts
@@ -53,5 +53,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/06/21 23:05 JST</sub>
+  <sub>Last updated: 2026/06/23 01:51 JST</sub>
 </p>
