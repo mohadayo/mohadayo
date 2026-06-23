@@ -38,20 +38,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude Code /usage—使用量と制限の内訳をスキル単位で確認する](https://mohablog.com/claude-code-usage-breakdown/) (2026-06-23)
 - [Python Protocolで型安全なDI設計—ABCとの違いと構造的部分型](https://mohablog.com/python-protocol-vs-abc/) (2026-06-22)
 - [math/rand/v2入門—Goの乱数でSeedが不要になった理由と書き換え](https://mohablog.com/go-math-rand-v2/) (2026-06-21)
-- [Go pgx v5入門—database/sqlにないbatchとCOPYを使う](https://mohablog.com/go-pgx-v5-batch-copy/) (2026-06-20)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.186｜bashコマンド出力にClaudeが自動応答｜毎日Changelog解説](https://qiita.com/moha0918_/items/c8e4090853e599e25b4a) (2026-06-23)
 - [Claude Code v2.1.185｜ストール表示が10秒→20秒に｜毎日Changelog解説](https://qiita.com/moha0918_/items/9cafe58f1e98d3af2599) (2026-06-21)
 - [Claude Code v2.1.181〜v2.1.183｜auto modeが破壊的コマンドを止める｜毎日Changelog解説](https://qiita.com/moha0918_/items/74e97e0f8be8174d312e) (2026-06-20)
-- [Claude Code v2.1.178〜v2.1.179｜Tool(param:value) でパラメータ単位の権限制御｜毎日Changelog解説](https://qiita.com/moha0918_/items/aa08e8d2c5cf5aa0e731) (2026-06-17)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/06/23 01:51 JST</sub>
+  <sub>Last updated: 2026/06/23 23:43 JST</sub>
 </p>
