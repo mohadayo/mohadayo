@@ -38,20 +38,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude Codeカスタムサブエージェントの作り方—tools継承と権限設計](https://mohablog.com/claude-code-custom-subagents/) (2026-06-24)
 - [Claude Code /usage—使用量と制限の内訳をスキル単位で確認する](https://mohablog.com/claude-code-usage-breakdown/) (2026-06-23)
 - [Python Protocolで型安全なDI設計—ABCとの違いと構造的部分型](https://mohablog.com/python-protocol-vs-abc/) (2026-06-22)
-- [math/rand/v2入門—Goの乱数でSeedが不要になった理由と書き換え](https://mohablog.com/go-math-rand-v2/) (2026-06-21)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.187｜sandbox.credentials で認証情報を遮断｜毎日Changelog解説](https://qiita.com/moha0918_/items/f08f0805f8e40a670757) (2026-06-24)
 - [Claude Code v2.1.186｜bashコマンド出力にClaudeが自動応答｜毎日Changelog解説](https://qiita.com/moha0918_/items/c8e4090853e599e25b4a) (2026-06-23)
 - [Claude Code v2.1.185｜ストール表示が10秒→20秒に｜毎日Changelog解説](https://qiita.com/moha0918_/items/9cafe58f1e98d3af2599) (2026-06-21)
-- [Claude Code v2.1.181〜v2.1.183｜auto modeが破壊的コマンドを止める｜毎日Changelog解説](https://qiita.com/moha0918_/items/74e97e0f8be8174d312e) (2026-06-20)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/06/23 23:43 JST</sub>
+  <sub>Last updated: 2026/06/24 23:24 JST</sub>
 </p>
