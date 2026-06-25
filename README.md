@@ -45,13 +45,13 @@
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.190〜v2.1.191｜/clear を /rewind で巻き戻せる｜毎日Changelog解説](https://qiita.com/moha0918_/items/f64cef66531e691d05c4) (2026-06-25)
 - [Claude Code v2.1.187｜sandbox.credentials で認証情報を遮断｜毎日Changelog解説](https://qiita.com/moha0918_/items/f08f0805f8e40a670757) (2026-06-24)
 - [Claude Code v2.1.186｜bashコマンド出力にClaudeが自動応答｜毎日Changelog解説](https://qiita.com/moha0918_/items/c8e4090853e599e25b4a) (2026-06-23)
-- [Claude Code v2.1.185｜ストール表示が10秒→20秒に｜毎日Changelog解説](https://qiita.com/moha0918_/items/9cafe58f1e98d3af2599) (2026-06-21)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/06/24 23:24 JST</sub>
+  <sub>Last updated: 2026/06/25 23:27 JST</sub>
 </p>
