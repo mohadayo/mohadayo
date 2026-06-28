@@ -38,9 +38,9 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Go contextでキャンセルを設計する—Causeで「誰が止めたか」を残す](https://mohablog.com/go-context-cancel-cause/) (2026-06-28)
 - [Claude Codeカスタムサブエージェントの作り方—tools継承と権限設計](https://mohablog.com/claude-code-custom-subagents/) (2026-06-24)
 - [Claude Code /usage—使用量と制限の内訳をスキル単位で確認する](https://mohablog.com/claude-code-usage-breakdown/) (2026-06-23)
-- [Python Protocolで型安全なDI設計—ABCとの違いと構造的部分型](https://mohablog.com/python-protocol-vs-abc/) (2026-06-22)
 <!-- /blog -->
 
 ### Qiita Posts
@@ -53,5 +53,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/06/27 22:27 JST</sub>
+  <sub>Last updated: 2026/06/28 22:41 JST</sub>
 </p>
