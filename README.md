@@ -38,20 +38,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Pythonの新ジェネリクス構文 PEP 695—type文とdef f[T]の書き方](https://mohablog.com/python-pep695-type-params/) (2026-06-30)
 - [Claude Code Routinesでcronを置き換える—クラウド無人実行の設定](https://mohablog.com/claude-code-routines-cloud/) (2026-06-29)
 - [Go contextでキャンセルを設計する—Causeで「誰が止めたか」を残す](https://mohablog.com/go-context-cancel-cause/) (2026-06-28)
-- [Claude Codeカスタムサブエージェントの作り方—tools継承と権限設計](https://mohablog.com/claude-code-custom-subagents/) (2026-06-24)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v0.2.21〜v2.1.195｜CLIからマルチエージェント基盤への全履歴｜毎日Changelog解説](https://qiita.com/moha0918_/items/8bd90fc2c1391c4769a1) (2026-06-30)
 - [Claude Code v2.1.190〜v2.1.191｜/clear を /rewind で巻き戻せる｜毎日Changelog解説](https://qiita.com/moha0918_/items/f64cef66531e691d05c4) (2026-06-25)
 - [Claude Code v2.1.187｜sandbox.credentials で認証情報を遮断｜毎日Changelog解説](https://qiita.com/moha0918_/items/f08f0805f8e40a670757) (2026-06-24)
-- [Claude Code v2.1.186｜bashコマンド出力にClaudeが自動応答｜毎日Changelog解説](https://qiita.com/moha0918_/items/c8e4090853e599e25b4a) (2026-06-23)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/06/30 00:41 JST</sub>
+  <sub>Last updated: 2026/06/30 23:13 JST</sub>
 </p>
