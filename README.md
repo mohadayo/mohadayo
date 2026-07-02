@@ -38,20 +38,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude Code MCPのスコープ管理—.mcp.jsonでチーム共有する設計](https://mohablog.com/claude-code-mcp-scope-sharing/) (2026-07-02)
 - [Claude Codeプラグインのインストール手順—marketplace追加から使うまで](https://mohablog.com/claude-code-plugin-install/) (2026-07-01)
 - [Pythonの新ジェネリクス構文 PEP 695—type文とdef f[T]の書き方](https://mohablog.com/python-pep695-type-params/) (2026-06-30)
-- [Claude Code Routinesでcronを置き換える—クラウド無人実行の設定](https://mohablog.com/claude-code-routines-cloud/) (2026-06-29)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.198｜背景エージェントがdraft PRまで自走｜毎日Changelog解説](https://qiita.com/moha0918_/items/181b45d5e97df7012263) (2026-07-02)
 - [Claude Code v2.1.196〜v2.1.197｜Sonnet 5 がデフォルトに｜毎日Changelog解説](https://qiita.com/moha0918_/items/6fac5264ef4c4497d188) (2026-07-01)
 - [Claude Code v0.2.21〜v2.1.195｜CLIからマルチエージェント基盤への全履歴｜毎日Changelog解説](https://qiita.com/moha0918_/items/8bd90fc2c1391c4769a1) (2026-06-30)
-- [Claude Code v2.1.190〜v2.1.191｜/clear を /rewind で巻き戻せる｜毎日Changelog解説](https://qiita.com/moha0918_/items/f64cef66531e691d05c4) (2026-06-25)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/07/01 23:29 JST</sub>
+  <sub>Last updated: 2026/07/02 22:53 JST</sub>
 </p>
