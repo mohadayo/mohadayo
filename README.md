@@ -38,9 +38,9 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude Codeの通知フックで完了を検知する—バックグラウンド実行の受け取り方](https://mohablog.com/claude-code-notification-hook/) (2026-07-03)
 - [Claude Code MCPのスコープ管理—.mcp.jsonでチーム共有する設計](https://mohablog.com/claude-code-mcp-scope-sharing/) (2026-07-02)
 - [Claude Codeプラグインのインストール手順—marketplace追加から使うまで](https://mohablog.com/claude-code-plugin-install/) (2026-07-01)
-- [Pythonの新ジェネリクス構文 PEP 695—type文とdef f[T]の書き方](https://mohablog.com/python-pep695-type-params/) (2026-06-30)
 <!-- /blog -->
 
 ### Qiita Posts
@@ -53,5 +53,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/07/02 22:53 JST</sub>
+  <sub>Last updated: 2026/07/03 22:57 JST</sub>
 </p>
