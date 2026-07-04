@@ -38,20 +38,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [errors.AsTypeでGoのエラーを型安全に取り出す—Go 1.26の新関数](https://mohablog.com/go-errors-astype-type-safe/) (2026-07-04)
 - [Claude Codeの通知フックで完了を検知する—バックグラウンド実行の受け取り方](https://mohablog.com/claude-code-notification-hook/) (2026-07-03)
 - [Claude Code MCPのスコープ管理—.mcp.jsonでチーム共有する設計](https://mohablog.com/claude-code-mcp-scope-sharing/) (2026-07-02)
-- [Claude Codeプラグインのインストール手順—marketplace追加から使うまで](https://mohablog.com/claude-code-plugin-install/) (2026-07-01)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.199〜v2.1.200｜サブエージェントが黙って失敗しなくなった｜毎日Changelog解説](https://qiita.com/moha0918_/items/1ebed59f44d724638f02) (2026-07-04)
 - [Claude Code v2.1.198｜背景エージェントがdraft PRまで自走｜毎日Changelog解説](https://qiita.com/moha0918_/items/181b45d5e97df7012263) (2026-07-02)
 - [Claude Code v2.1.196〜v2.1.197｜Sonnet 5 がデフォルトに｜毎日Changelog解説](https://qiita.com/moha0918_/items/6fac5264ef4c4497d188) (2026-07-01)
-- [Claude Code v0.2.21〜v2.1.195｜CLIからマルチエージェント基盤への全履歴｜毎日Changelog解説](https://qiita.com/moha0918_/items/8bd90fc2c1391c4769a1) (2026-06-30)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/07/03 22:57 JST</sub>
+  <sub>Last updated: 2026/07/04 22:19 JST</sub>
 </p>
