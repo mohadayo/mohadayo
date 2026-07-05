@@ -38,9 +38,9 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude Code fallbackModelでoverloadedを乗り切る対処法](https://mohablog.com/claude-code-fallback-model/) (2026-07-05)
 - [errors.AsTypeでGoのエラーを型安全に取り出す—Go 1.26の新関数](https://mohablog.com/go-errors-astype-type-safe/) (2026-07-04)
 - [Claude Codeの通知フックで完了を検知する—バックグラウンド実行の受け取り方](https://mohablog.com/claude-code-notification-hook/) (2026-07-03)
-- [Claude Code MCPのスコープ管理—.mcp.jsonでチーム共有する設計](https://mohablog.com/claude-code-mcp-scope-sharing/) (2026-07-02)
 <!-- /blog -->
 
 ### Qiita Posts
@@ -53,5 +53,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/07/04 22:19 JST</sub>
+  <sub>Last updated: 2026/07/05 22:25 JST</sub>
 </p>
