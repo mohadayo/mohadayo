@@ -38,20 +38,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude Code MCPの使い方—リソースを@参照、プロンプトを/で実行](https://mohablog.com/claude-code-mcp-resources/) (2026-07-06)
 - [Claude Code fallbackModelでoverloadedを乗り切る対処法](https://mohablog.com/claude-code-fallback-model/) (2026-07-05)
 - [errors.AsTypeでGoのエラーを型安全に取り出す—Go 1.26の新関数](https://mohablog.com/go-errors-astype-type-safe/) (2026-07-04)
-- [Claude Codeの通知フックで完了を検知する—バックグラウンド実行の受け取り方](https://mohablog.com/claude-code-notification-hook/) (2026-07-03)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.201｜Sonnet 5 が会話途中の system role をやめる｜毎日Changelog解説](https://qiita.com/moha0918_/items/6fc5910d8bdf6343498b) (2026-07-06)
 - [Claude Code v2.1.199〜v2.1.200｜サブエージェントが黙って失敗しなくなった｜毎日Changelog解説](https://qiita.com/moha0918_/items/1ebed59f44d724638f02) (2026-07-04)
 - [Claude Code v2.1.198｜背景エージェントがdraft PRまで自走｜毎日Changelog解説](https://qiita.com/moha0918_/items/181b45d5e97df7012263) (2026-07-02)
-- [Claude Code v2.1.196〜v2.1.197｜Sonnet 5 がデフォルトに｜毎日Changelog解説](https://qiita.com/moha0918_/items/6fac5264ef4c4497d188) (2026-07-01)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/07/05 22:25 JST</sub>
+  <sub>Last updated: 2026/07/07 00:26 JST</sub>
 </p>
