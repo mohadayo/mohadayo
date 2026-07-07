@@ -38,9 +38,9 @@
 
 ### Blog Posts
 <!-- blog -->
+- [StrawberryでFastAPIにGraphQLを追加する—型ヒントで書くスキーマ](https://mohablog.com/strawberry-fastapi-graphql/) (2026-07-07)
 - [Claude Code MCPの使い方—リソースを@参照、プロンプトを/で実行](https://mohablog.com/claude-code-mcp-resources/) (2026-07-06)
 - [Claude Code fallbackModelでoverloadedを乗り切る対処法](https://mohablog.com/claude-code-fallback-model/) (2026-07-05)
-- [errors.AsTypeでGoのエラーを型安全に取り出す—Go 1.26の新関数](https://mohablog.com/go-errors-astype-type-safe/) (2026-07-04)
 <!-- /blog -->
 
 ### Qiita Posts
@@ -53,5 +53,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/07/07 00:26 JST</sub>
+  <sub>Last updated: 2026/07/07 23:26 JST</sub>
 </p>
