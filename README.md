@@ -38,20 +38,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [GOMAXPROCSをコンテナのCPU制限に合わせる—Go 1.25の自動調整](https://mohablog.com/gomaxprocs-container-go125/) (2026-07-08)
 - [StrawberryでFastAPIにGraphQLを追加する—型ヒントで書くスキーマ](https://mohablog.com/strawberry-fastapi-graphql/) (2026-07-07)
 - [Claude Code MCPの使い方—リソースを@参照、プロンプトを/で実行](https://mohablog.com/claude-code-mcp-resources/) (2026-07-06)
-- [Claude Code fallbackModelでoverloadedを乗り切る対処法](https://mohablog.com/claude-code-fallback-model/) (2026-07-05)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.202〜v2.1.203｜バックグラウンドエージェント総ざらい修正｜毎日Changelog解説](https://qiita.com/moha0918_/items/bcd8b890eb0f4c224365) (2026-07-08)
 - [Claude Code v2.1.201｜Sonnet 5 が会話途中の system role をやめる｜毎日Changelog解説](https://qiita.com/moha0918_/items/6fc5910d8bdf6343498b) (2026-07-06)
 - [Claude Code v2.1.199〜v2.1.200｜サブエージェントが黙って失敗しなくなった｜毎日Changelog解説](https://qiita.com/moha0918_/items/1ebed59f44d724638f02) (2026-07-04)
-- [Claude Code v2.1.198｜背景エージェントがdraft PRまで自走｜毎日Changelog解説](https://qiita.com/moha0918_/items/181b45d5e97df7012263) (2026-07-02)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/07/07 23:26 JST</sub>
+  <sub>Last updated: 2026/07/08 22:58 JST</sub>
 </p>
