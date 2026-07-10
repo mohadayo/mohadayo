@@ -38,9 +38,9 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude Code /doctorの使い方—fキーで環境を診断して直す](https://mohablog.com/claude-code-doctor-checkup/) (2026-07-10)
 - [Claude Code Skillのcontext: forkでコンテキストを隔離する方法](https://mohablog.com/skill-context-fork/) (2026-07-09)
 - [GOMAXPROCSをコンテナのCPU制限に合わせる—Go 1.25の自動調整](https://mohablog.com/gomaxprocs-container-go125/) (2026-07-08)
-- [StrawberryでFastAPIにGraphQLを追加する—型ヒントで書くスキーマ](https://mohablog.com/strawberry-fastapi-graphql/) (2026-07-07)
 <!-- /blog -->
 
 ### Qiita Posts
@@ -53,5 +53,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/07/09 23:52 JST</sub>
+  <sub>Last updated: 2026/07/10 23:19 JST</sub>
 </p>
