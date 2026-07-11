@@ -38,20 +38,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Pydantic AIで型安全なAIエージェントを作る—output_typeとツール設計](https://mohablog.com/pydantic-ai-output-type/) (2026-07-11)
 - [Claude Code /doctorの使い方—fキーで環境を診断して直す](https://mohablog.com/claude-code-doctor-checkup/) (2026-07-10)
 - [Claude Code Skillのcontext: forkでコンテキストを隔離する方法](https://mohablog.com/skill-context-fork/) (2026-07-09)
-- [GOMAXPROCSをコンテナのCPU制限に合わせる—Go 1.25の自動調整](https://mohablog.com/gomaxprocs-container-go125/) (2026-07-08)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.206｜/doctor が CLAUDE.md を削れと言い出す｜毎日Changelog解説](https://qiita.com/moha0918_/items/719ee336cd64f9e78423) (2026-07-11)
 - [Claude Code v2.1.204〜v2.1.205｜自動モードの安全弁が増える｜毎日Changelog解説](https://qiita.com/moha0918_/items/6b07151a020d40ff6657) (2026-07-09)
 - [Claude Code v2.1.202〜v2.1.203｜バックグラウンドエージェント総ざらい修正｜毎日Changelog解説](https://qiita.com/moha0918_/items/bcd8b890eb0f4c224365) (2026-07-08)
-- [Claude Code v2.1.201｜Sonnet 5 が会話途中の system role をやめる｜毎日Changelog解説](https://qiita.com/moha0918_/items/6fc5910d8bdf6343498b) (2026-07-06)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/07/10 23:19 JST</sub>
+  <sub>Last updated: 2026/07/11 22:13 JST</sub>
 </p>
