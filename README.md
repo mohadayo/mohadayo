@@ -38,20 +38,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude Code /cdでディレクトリを移す—/add-dirとの違いと使い分け](https://mohablog.com/claude-code-cd-command/) (2026-07-12)
 - [Pydantic AIで型安全なAIエージェントを作る—output_typeとツール設計](https://mohablog.com/pydantic-ai-output-type/) (2026-07-11)
 - [Claude Code /doctorの使い方—fキーで環境を診断して直す](https://mohablog.com/claude-code-doctor-checkup/) (2026-07-10)
-- [Claude Code Skillのcontext: forkでコンテキストを隔離する方法](https://mohablog.com/skill-context-fork/) (2026-07-09)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.207｜Auto mode がクラウド3社で opt-in 不要に｜毎日Changelog解説](https://qiita.com/moha0918_/items/0b47d4c62a52b65ea7c0) (2026-07-12)
 - [Claude Code v2.1.206｜/doctor が CLAUDE.md を削れと言い出す｜毎日Changelog解説](https://qiita.com/moha0918_/items/719ee336cd64f9e78423) (2026-07-11)
 - [Claude Code v2.1.204〜v2.1.205｜自動モードの安全弁が増える｜毎日Changelog解説](https://qiita.com/moha0918_/items/6b07151a020d40ff6657) (2026-07-09)
-- [Claude Code v2.1.202〜v2.1.203｜バックグラウンドエージェント総ざらい修正｜毎日Changelog解説](https://qiita.com/moha0918_/items/bcd8b890eb0f4c224365) (2026-07-08)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/07/11 22:13 JST</sub>
+  <sub>Last updated: 2026/07/12 22:14 JST</sub>
 </p>
