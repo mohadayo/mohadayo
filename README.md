@@ -38,20 +38,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [pydantic-settingsの使い方—.envと環境変数はどちらが勝つのか](https://mohablog.com/pydantic-settings-env-priority/) (2026-07-15)
 - [Python 3.14のサブインタプリタ入門—GILを外さずCPU処理を並列化する](https://mohablog.com/python-314-subinterpreters/) (2026-07-14)
 - [Goのb.Loopで正確なベンチマークを書く—b.Nとの違いと落とし穴](https://mohablog.com/go-b-loop-benchmark/) (2026-07-13)
-- [Claude Code /cdでディレクトリを移す—/add-dirとの違いと使い分け](https://mohablog.com/claude-code-cd-command/) (2026-07-12)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.208〜v2.1.209｜長時間セッションのメモリリーク一掃｜毎日Changelog解説](https://qiita.com/moha0918_/items/7701fef6ec098243ba32) (2026-07-15)
 - [Claude Code v2.1.207｜Auto mode がクラウド3社で opt-in 不要に｜毎日Changelog解説](https://qiita.com/moha0918_/items/0b47d4c62a52b65ea7c0) (2026-07-12)
 - [Claude Code v2.1.206｜/doctor が CLAUDE.md を削れと言い出す｜毎日Changelog解説](https://qiita.com/moha0918_/items/719ee336cd64f9e78423) (2026-07-11)
-- [Claude Code v2.1.204〜v2.1.205｜自動モードの安全弁が増える｜毎日Changelog解説](https://qiita.com/moha0918_/items/6b07151a020d40ff6657) (2026-07-09)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/07/14 22:28 JST</sub>
+  <sub>Last updated: 2026/07/15 22:38 JST</sub>
 </p>
