@@ -38,20 +38,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude Code /code-reviewと/review—ultraはいつ回すか](https://mohablog.com/claude-code-review-commands/) (2026-07-17)
 - [GoのCSRF対策—CrossOriginProtectionでトークンが不要になる仕組み](https://mohablog.com/go-csrf-crossoriginprotection/) (2026-07-16)
 - [pydantic-settingsの使い方—.envと環境変数はどちらが勝つのか](https://mohablog.com/pydantic-settings-env-priority/) (2026-07-15)
-- [Python 3.14のサブインタプリタ入門—GILを外さずCPU処理を並列化する](https://mohablog.com/python-314-subinterpreters/) (2026-07-14)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.211｜Bedrock/Vertexのキャッシュ課金バグが直る｜毎日Changelog解説](https://qiita.com/moha0918_/items/c8b144e3ba36744b964b) (2026-07-17)
 - [Claude Code v2.1.210｜Write(path) 権限ルールに起動時警告｜毎日Changelog解説](https://qiita.com/moha0918_/items/2b9faf5b4ab771d4496a) (2026-07-16)
 - [Claude Code v2.1.208〜v2.1.209｜長時間セッションのメモリリーク一掃｜毎日Changelog解説](https://qiita.com/moha0918_/items/7701fef6ec098243ba32) (2026-07-15)
-- [Claude Code v2.1.207｜Auto mode がクラウド3社で opt-in 不要に｜毎日Changelog解説](https://qiita.com/moha0918_/items/0b47d4c62a52b65ea7c0) (2026-07-12)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/07/16 22:44 JST</sub>
+  <sub>Last updated: 2026/07/17 22:22 JST</sub>
 </p>
