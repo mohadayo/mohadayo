@@ -38,20 +38,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude Code /forkで会話を分岐する—/subtaskと背景セッション](https://mohablog.com/claude-code-fork-subtask/) (2026-07-19)
 - [Python dataclass実践—field・frozen・asdictの正しい書き方](https://mohablog.com/python-dataclass-field-frozen/) (2026-07-18)
 - [Claude Code /code-reviewと/review—ultraはいつ回すか](https://mohablog.com/claude-code-review-commands/) (2026-07-17)
-- [GoのCSRF対策—CrossOriginProtectionでトークンが不要になる仕組み](https://mohablog.com/go-csrf-crossoriginprotection/) (2026-07-16)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.214｜permission チェックの穴が一斉に塞がる｜毎日Changelog解説](https://qiita.com/moha0918_/items/6c6646ec2759b63216c5) (2026-07-19)
 - [Claude Code v2.1.212｜暴走ループにセッション上限｜毎日Changelog解説](https://qiita.com/moha0918_/items/9be8047b5f9980465623) (2026-07-18)
 - [Claude Code v2.1.211｜Bedrock/Vertexのキャッシュ課金バグが直る｜毎日Changelog解説](https://qiita.com/moha0918_/items/c8b144e3ba36744b964b) (2026-07-17)
-- [Claude Code v2.1.210｜Write(path) 権限ルールに起動時警告｜毎日Changelog解説](https://qiita.com/moha0918_/items/2b9faf5b4ab771d4496a) (2026-07-16)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/07/18 22:08 JST</sub>
+  <sub>Last updated: 2026/07/19 22:12 JST</sub>
 </p>
