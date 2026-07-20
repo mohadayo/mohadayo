@@ -38,20 +38,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude Code Vimモードの使い方—hjkl・ビジュアル選択・jjでEsc設定](https://mohablog.com/claude-code-vim-mode/) (2026-07-20)
 - [Claude Code /forkで会話を分岐する—/subtaskと背景セッション](https://mohablog.com/claude-code-fork-subtask/) (2026-07-19)
 - [Python dataclass実践—field・frozen・asdictの正しい書き方](https://mohablog.com/python-dataclass-field-frozen/) (2026-07-18)
-- [Claude Code /code-reviewと/review—ultraはいつ回すか](https://mohablog.com/claude-code-review-commands/) (2026-07-17)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.215｜/verify・/code-review の自動実行が止まる｜毎日Changelog解説](https://qiita.com/moha0918_/items/cec53cc700e513ac13d7) (2026-07-20)
 - [Claude Code v2.1.214｜permission チェックの穴が一斉に塞がる｜毎日Changelog解説](https://qiita.com/moha0918_/items/6c6646ec2759b63216c5) (2026-07-19)
 - [Claude Code v2.1.212｜暴走ループにセッション上限｜毎日Changelog解説](https://qiita.com/moha0918_/items/9be8047b5f9980465623) (2026-07-18)
-- [Claude Code v2.1.211｜Bedrock/Vertexのキャッシュ課金バグが直る｜毎日Changelog解説](https://qiita.com/moha0918_/items/c8b144e3ba36744b964b) (2026-07-17)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/07/19 22:12 JST</sub>
+  <sub>Last updated: 2026/07/20 22:59 JST</sub>
 </p>
