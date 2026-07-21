@@ -38,9 +38,9 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude Code Artifacts入門—Pro/Maxで解放されたライブ共有ページ](https://mohablog.com/claude-code-artifacts/) (2026-07-21)
 - [Claude Code Vimモードの使い方—hjkl・ビジュアル選択・jjでEsc設定](https://mohablog.com/claude-code-vim-mode/) (2026-07-20)
 - [Claude Code /forkで会話を分岐する—/subtaskと背景セッション](https://mohablog.com/claude-code-fork-subtask/) (2026-07-19)
-- [Python dataclass実践—field・frozen・asdictの正しい書き方](https://mohablog.com/python-dataclass-field-frozen/) (2026-07-18)
 <!-- /blog -->
 
 ### Qiita Posts
@@ -53,5 +53,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/07/20 22:59 JST</sub>
+  <sub>Last updated: 2026/07/21 22:43 JST</sub>
 </p>
