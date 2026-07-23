@@ -38,20 +38,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude Codeのキーバインド変更—keybindings.jsonと競合対処](https://mohablog.com/claude-code-keybindings/) (2026-07-23)
 - [Python 3.15のlazy importを実測—PEP 810の構文と制約](https://mohablog.com/python-315-lazy-imports/) (2026-07-22)
 - [Claude Code Artifacts入門—Pro/Maxで解放されたライブ共有ページ](https://mohablog.com/claude-code-artifacts/) (2026-07-21)
-- [Claude Code Vimモードの使い方—hjkl・ビジュアル選択・jjでEsc設定](https://mohablog.com/claude-code-vim-mode/) (2026-07-20)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.218｜/code-review がバックグラウンド化｜毎日Changelog解説](https://qiita.com/moha0918_/items/6375e58106fbc7c4c42d) (2026-07-23)
 - [Claude Code v2.1.216〜v2.1.217｜サブエージェントの無制限増殖に上限｜毎日Changelog解説](https://qiita.com/moha0918_/items/2ad6f36fd302017b9267) (2026-07-22)
 - [Claude Code v2.1.215｜/verify・/code-review の自動実行が止まる｜毎日Changelog解説](https://qiita.com/moha0918_/items/cec53cc700e513ac13d7) (2026-07-20)
-- [Claude Code v2.1.214｜permission チェックの穴が一斉に塞がる｜毎日Changelog解説](https://qiita.com/moha0918_/items/6c6646ec2759b63216c5) (2026-07-19)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/07/22 22:45 JST</sub>
+  <sub>Last updated: 2026/07/23 22:50 JST</sub>
 </p>
