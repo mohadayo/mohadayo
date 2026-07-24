@@ -38,9 +38,9 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Green Tea GCとは—Go 1.26で変わるGCの仕組みと効果を実測](https://mohablog.com/go-1-26-green-tea-gc/) (2026-07-24)
 - [Claude Codeのキーバインド変更—keybindings.jsonと競合対処](https://mohablog.com/claude-code-keybindings/) (2026-07-23)
 - [Python 3.15のlazy importを実測—PEP 810の構文と制約](https://mohablog.com/python-315-lazy-imports/) (2026-07-22)
-- [Claude Code Artifacts入門—Pro/Maxで解放されたライブ共有ページ](https://mohablog.com/claude-code-artifacts/) (2026-07-21)
 <!-- /blog -->
 
 ### Qiita Posts
@@ -53,5 +53,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/07/23 22:50 JST</sub>
+  <sub>Last updated: 2026/07/24 22:38 JST</sub>
 </p>
