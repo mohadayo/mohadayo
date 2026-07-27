@@ -38,9 +38,9 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude Code MCP tool search—実測7万トークン削減の設定判断](https://mohablog.com/mcp-tool-search-context/) (2026-07-27)
 - [Pythonのlru_cacheとcache—メモ化の使い分けとメソッドの落とし穴](https://mohablog.com/python-functools-lru-cache/) (2026-07-26)
 - [Claude Code Workflowでサブエージェントを決定論的に束ねる](https://mohablog.com/claude-code-workflow-agents/) (2026-07-25)
-- [Green Tea GCとは—Go 1.26で変わるGCの仕組みと効果を実測](https://mohablog.com/go-1-26-green-tea-gc/) (2026-07-24)
 <!-- /blog -->
 
 ### Qiita Posts
@@ -53,5 +53,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/07/26 22:15 JST</sub>
+  <sub>Last updated: 2026/07/27 23:27 JST</sub>
 </p>
