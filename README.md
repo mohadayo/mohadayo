@@ -38,9 +38,9 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Python 3.15のprofiling.sampling—稼働中プロセスを実測する](https://mohablog.com/python-315-profiling-sampling/) (2026-07-28)
 - [Claude Code MCP tool search—実測7万トークン削減の設定判断](https://mohablog.com/mcp-tool-search-context/) (2026-07-27)
 - [Pythonのlru_cacheとcache—メモ化の使い分けとメソッドの落とし穴](https://mohablog.com/python-functools-lru-cache/) (2026-07-26)
-- [Claude Code Workflowでサブエージェントを決定論的に束ねる](https://mohablog.com/claude-code-workflow-agents/) (2026-07-25)
 <!-- /blog -->
 
 ### Qiita Posts
@@ -53,5 +53,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/07/27 23:27 JST</sub>
+  <sub>Last updated: 2026/07/28 23:00 JST</sub>
 </p>
