@@ -38,9 +38,9 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude Code /goalの使い方—完了条件の書き方と打ち切り設計](https://mohablog.com/claude-code-goal-command/) (2026-07-30)
 - [Pythonのプロパティベーステスト入門—Hypothesisで境界値を自動生成](https://mohablog.com/python-property-based-test/) (2026-07-29)
 - [Python 3.15のprofiling.sampling—稼働中プロセスを実測する](https://mohablog.com/python-315-profiling-sampling/) (2026-07-28)
-- [Claude Code MCP tool search—実測7万トークン削減の設定判断](https://mohablog.com/mcp-tool-search-context/) (2026-07-27)
 <!-- /blog -->
 
 ### Qiita Posts
@@ -53,5 +53,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/07/29 23:03 JST</sub>
+  <sub>Last updated: 2026/07/30 22:52 JST</sub>
 </p>
