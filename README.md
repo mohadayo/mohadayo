@@ -38,9 +38,9 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Python 3.14のアノテーション遅延評価—__future__はもう不要か](https://mohablog.com/python-pep649-annotations/) (2026-07-31)
 - [Claude Code /goalの使い方—完了条件の書き方と打ち切り設計](https://mohablog.com/claude-code-goal-command/) (2026-07-30)
 - [Pythonのプロパティベーステスト入門—Hypothesisで境界値を自動生成](https://mohablog.com/python-property-based-test/) (2026-07-29)
-- [Python 3.15のprofiling.sampling—稼働中プロセスを実測する](https://mohablog.com/python-315-profiling-sampling/) (2026-07-28)
 <!-- /blog -->
 
 ### Qiita Posts
@@ -53,5 +53,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/07/30 22:52 JST</sub>
+  <sub>Last updated: 2026/07/31 22:59 JST</sub>
 </p>
