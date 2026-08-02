@@ -38,9 +38,9 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Python 3.15のUTF-8デフォルト化—cp932読み込みの移行対処法](https://mohablog.com/python-315-utf8-default/) (2026-08-02)
 - [Claude Code /loopで繰り返し実行—loop.mdと発火しないスキル](https://mohablog.com/claude-code-loop-command/) (2026-08-01)
 - [Python 3.14のアノテーション遅延評価—__future__はもう不要か](https://mohablog.com/python-pep649-annotations/) (2026-07-31)
-- [Claude Code /goalの使い方—完了条件の書き方と打ち切り設計](https://mohablog.com/claude-code-goal-command/) (2026-07-30)
 <!-- /blog -->
 
 ### Qiita Posts
@@ -53,5 +53,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/08/01 22:13 JST</sub>
+  <sub>Last updated: 2026/08/02 22:14 JST</sub>
 </p>
