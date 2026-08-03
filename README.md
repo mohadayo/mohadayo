@@ -14,7 +14,7 @@
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,ts,nextjs,nuxtjs,fastapi,django,docker,aws,githubactions&perline=5&theme=light" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,go,ts,nextjs,fastapi,django,docker,aws,gcp,cloudflare,supabase,githubactions&perline=6&theme=light" alt="Tech Stack" />
 </p>
 
 ---
