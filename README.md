@@ -28,12 +28,6 @@
 
 - [盆栽ブランチ](https://bonsai-branch.pages.dev) - 盆栽を育てるように、gitの主要操作を覚えるパズルゲーム (React + TypeScript)
 
-- [東京、どこに住む？](https://where-can-i-live.vercel.app) - 生活スタイルから逆算して、上京者が住むべき駅を断定してくれるサービス (Next.js + tRPC + MapLibre)
-
-- [Lantern](https://lantern-snowy.vercel.app) - あなたの苦悩を過去に乗り越えた人と話せる。お悩み相談マッチングアプリ (Next.js + Supabase)
-
-- [KAGEBUNSHIN](https://kagebunshin-beryl.vercel.app) - 仕事の資料を放り込むだけ。あなたを支える専属AIパートナー (Next.js + Supabase)
-
 ---
 
 ### Blog Posts
