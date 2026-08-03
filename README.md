@@ -32,9 +32,9 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Go 1.27の標準uuidパッケージ—google/uuidを外せる条件](https://mohablog.com/go-1-27-stdlib-uuid/) (2026-08-03)
 - [Python 3.15のUTF-8デフォルト化—cp932読み込みの移行対処法](https://mohablog.com/python-315-utf8-default/) (2026-08-02)
 - [Claude Code /loopで繰り返し実行—loop.mdと発火しないスキル](https://mohablog.com/claude-code-loop-command/) (2026-08-01)
-- [Python 3.14のアノテーション遅延評価—__future__はもう不要か](https://mohablog.com/python-pep649-annotations/) (2026-07-31)
 <!-- /blog -->
 
 ### Qiita Posts
@@ -47,5 +47,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/08/02 22:14 JST</sub>
+  <sub>Last updated: 2026/08/03 23:32 JST</sub>
 </p>
