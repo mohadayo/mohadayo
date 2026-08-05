@@ -32,20 +32,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude Code Remote Controlの設定—スマホ操作と切れる原因の潰し方](https://mohablog.com/claude-code-remote-control/) (2026-08-05)
 - [Claude Codeサブエージェントのネスト—3階層の設定と累計200の上限](https://mohablog.com/claude-code-nested-subagents/) (2026-08-04)
 - [Go 1.27の標準uuidパッケージ—google/uuidを外せる条件](https://mohablog.com/go-1-27-stdlib-uuid/) (2026-08-03)
-- [Python 3.15のUTF-8デフォルト化—cp932読み込みの移行対処法](https://mohablog.com/python-315-utf8-default/) (2026-08-02)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.221｜zsh の [[ ]] で権限チェックが素通りしていた｜毎日Changelog解説](https://qiita.com/moha0918_/items/4a520c01ae3e04f211e4) (2026-08-05)
 - [Claude Code v2.1.220｜中身は安定性改善のみ｜毎日Changelog解説](https://qiita.com/moha0918_/items/34fca1835fc51112a4d6) (2026-07-26)
 - [Claude Code v2.1.219｜Opus 5 が新デフォルトに｜毎日Changelog解説](https://qiita.com/moha0918_/items/e534c1c6270347af0a5c) (2026-07-25)
-- [Claude Code v2.1.218｜/code-review がバックグラウンド化｜毎日Changelog解説](https://qiita.com/moha0918_/items/6375e58106fbc7c4c42d) (2026-07-23)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/08/04 23:04 JST</sub>
+  <sub>Last updated: 2026/08/05 23:02 JST</sub>
 </p>
