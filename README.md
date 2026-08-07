@@ -32,20 +32,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude Codeのコスト制限—max-budget-usdが上限を超える理由](https://mohablog.com/claude-code-max-budget-usd/) (2026-08-07)
 - [Go 1.27のジェネリックメソッド—何が書けて、interfaceはなぜ満たせないか](https://mohablog.com/go-generic-methods/) (2026-08-06)
 - [Claude Code Remote Controlの設定—スマホ操作と切れる原因の潰し方](https://mohablog.com/claude-code-remote-control/) (2026-08-05)
-- [Claude Codeサブエージェントのネスト—3階層の設定と累計200の上限](https://mohablog.com/claude-code-nested-subagents/) (2026-08-04)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.223｜Bash permission のバイパスが塞がる｜毎日Changelog解説](https://qiita.com/moha0918_/items/70ec9480a6b3a235ce01) (2026-08-07)
 - [Claude Code v2.1.222｜worktree 隔離の穴が塞がる｜毎日Changelog解説](https://qiita.com/moha0918_/items/e124c85649184c8a6922) (2026-08-06)
 - [Claude Code v2.1.221｜zsh の [[ ]] で権限チェックが素通りしていた｜毎日Changelog解説](https://qiita.com/moha0918_/items/4a520c01ae3e04f211e4) (2026-08-05)
-- [Claude Code v2.1.220｜中身は安定性改善のみ｜毎日Changelog解説](https://qiita.com/moha0918_/items/34fca1835fc51112a4d6) (2026-07-26)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/08/06 23:00 JST</sub>
+  <sub>Last updated: 2026/08/07 21:56 JST</sub>
 </p>
