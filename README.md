@@ -32,20 +32,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude Code fast modeとは—/fastの料金と使えない時の対処](https://mohablog.com/claude-code-fast-mode/) (2026-08-09)
 - [go fixの使い方—Go 1.27で26個になったmodernizerと適用条件](https://mohablog.com/go-fix-modernizers/) (2026-08-08)
 - [Claude Codeのコスト制限—max-budget-usdが上限を超える理由](https://mohablog.com/claude-code-max-budget-usd/) (2026-08-07)
-- [Go 1.27のジェネリックメソッド—何が書けて、interfaceはなぜ満たせないか](https://mohablog.com/go-generic-methods/) (2026-08-06)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.225〜v2.1.226｜ヘッドレスの CLAUDE_CODE_OAUTH_TOKEN が奪われる不具合｜毎日Changelog解説](https://qiita.com/moha0918_/items/0b6db0c810a280d5b1bc) (2026-08-09)
 - [Claude Code v2.1.224｜セッション間 SendMessage が解禁｜毎日Changelog解説](https://qiita.com/moha0918_/items/8d9bb54bff914f7017cd) (2026-08-08)
 - [Claude Code v2.1.223｜Bash permission のバイパスが塞がる｜毎日Changelog解説](https://qiita.com/moha0918_/items/70ec9480a6b3a235ce01) (2026-08-07)
-- [Claude Code v2.1.222｜worktree 隔離の穴が塞がる｜毎日Changelog解説](https://qiita.com/moha0918_/items/e124c85649184c8a6922) (2026-08-06)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/08/08 21:40 JST</sub>
+  <sub>Last updated: 2026/08/09 21:42 JST</sub>
 </p>
