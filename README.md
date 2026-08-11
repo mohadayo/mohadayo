@@ -32,9 +32,9 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Go 1.27のポスト量子署名ML-DSA—TLSハンドシェイクが2.75倍に](https://mohablog.com/go-1-27-mldsa-tls-handshake/) (2026-08-11)
 - [Go Flight Recorderの使い方—MaxBytesが効かない条件と対処](https://mohablog.com/go-flight-recorder-maxbytes/) (2026-08-10)
 - [Claude Code fast modeとは—/fastの料金と使えない時の対処](https://mohablog.com/claude-code-fast-mode/) (2026-08-09)
-- [go fixの使い方—Go 1.27で26個になったmodernizerと適用条件](https://mohablog.com/go-fix-modernizers/) (2026-08-08)
 <!-- /blog -->
 
 ### Qiita Posts
@@ -47,5 +47,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/08/10 22:00 JST</sub>
+  <sub>Last updated: 2026/08/11 21:57 JST</sub>
 </p>
