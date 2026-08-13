@@ -32,20 +32,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Go SIMDパッケージの使い方—Go 1.27で3.9倍、効かないサイズもある](https://mohablog.com/go-simd-package/) (2026-08-13)
 - [Claude CodeはAGENTS.mdを読まない—@importとsymlinkで繋ぐ](https://mohablog.com/claude-code-agents-md/) (2026-08-12)
 - [Go 1.27のポスト量子署名ML-DSA—TLSハンドシェイクが2.75倍に](https://mohablog.com/go-1-27-mldsa-tls-handshake/) (2026-08-11)
-- [Go Flight Recorderの使い方—MaxBytesが効かない条件と対処](https://mohablog.com/go-flight-recorder-maxbytes/) (2026-08-10)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.227〜v2.1.229｜Write の read 必須が新モデルで外れる｜毎日Changelog解説](https://qiita.com/moha0918_/items/5acf087c20983cff5f7c) (2026-08-13)
 - [Claude Code v2.1.225〜v2.1.226｜ヘッドレスの CLAUDE_CODE_OAUTH_TOKEN が奪われる不具合｜毎日Changelog解説](https://qiita.com/moha0918_/items/0b6db0c810a280d5b1bc) (2026-08-09)
 - [Claude Code v2.1.224｜セッション間 SendMessage が解禁｜毎日Changelog解説](https://qiita.com/moha0918_/items/8d9bb54bff914f7017cd) (2026-08-08)
-- [Claude Code v2.1.223｜Bash permission のバイパスが塞がる｜毎日Changelog解説](https://qiita.com/moha0918_/items/70ec9480a6b3a235ce01) (2026-08-07)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/08/12 22:01 JST</sub>
+  <sub>Last updated: 2026/08/13 22:02 JST</sub>
 </p>
