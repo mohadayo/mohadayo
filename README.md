@@ -32,20 +32,20 @@
 
 ### Blog Posts
 <!-- blog -->
-- [Go PGO入門—default.pgoの置き方と効果が2.28%に留まる理由](https://mohablog.com/go-pgo-default-pgo-effect/) (2026-08-14)
-- [Go SIMDパッケージの使い方—Go 1.27で3.9倍、効かないサイズもある](https://mohablog.com/go-simd-package/) (2026-08-13)
-- [Claude CodeはAGENTS.mdを読まない—@importとsymlinkで繋ぐ](https://mohablog.com/claude-code-agents-md/) (2026-08-12)
+- [AWS AssumeRoleとは—信頼ポリシーとSTSで権限を委譲する仕組み](https://mohablog.com/aws-assumerole-sts-basics/) (2026-08-15)
+- [IAMポリシーの評価順序—暗黙のDenyと明示的なDenyはどう違う？](https://mohablog.com/iam-policy-evaluation-logic/) (2026-08-15)
+- [AWS IAMのユーザー・グループ・ロール・ポリシーの違いと関係を整理する](https://mohablog.com/aws-iam-user-group-role-policy/) (2026-08-15)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.232｜サブエージェントの fork がデフォルトON｜毎日Changelog解説](https://qiita.com/moha0918_/items/6bc03320b1d2873318db) (2026-08-15)
 - [Claude Code v2.1.231｜Slack の MCP OAuth が redirect URI で弾かれる問題を修正｜毎日Changelog解説](https://qiita.com/moha0918_/items/e0970dd96706c59e6b69) (2026-08-14)
 - [Claude Code v2.1.227〜v2.1.229｜Write の read 必須が新モデルで外れる｜毎日Changelog解説](https://qiita.com/moha0918_/items/5acf087c20983cff5f7c) (2026-08-13)
-- [Claude Code v2.1.225〜v2.1.226｜ヘッドレスの CLAUDE_CODE_OAUTH_TOKEN が奪われる不具合｜毎日Changelog解説](https://qiita.com/moha0918_/items/0b6db0c810a280d5b1bc) (2026-08-09)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/08/14 21:59 JST</sub>
+  <sub>Last updated: 2026/08/15 21:31 JST</sub>
 </p>
