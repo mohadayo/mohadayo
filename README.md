@@ -39,13 +39,13 @@
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.233｜TodoWrite が Fable 5 / Sonnet 5 で無効に｜毎日Changelog解説](https://qiita.com/moha0918_/items/b604352231f9a8a76a38) (2026-08-16)
 - [Claude Code v2.1.232｜サブエージェントの fork がデフォルトON｜毎日Changelog解説](https://qiita.com/moha0918_/items/6bc03320b1d2873318db) (2026-08-15)
 - [Claude Code v2.1.231｜Slack の MCP OAuth が redirect URI で弾かれる問題を修正｜毎日Changelog解説](https://qiita.com/moha0918_/items/e0970dd96706c59e6b69) (2026-08-14)
-- [Claude Code v2.1.227〜v2.1.229｜Write の read 必須が新モデルで外れる｜毎日Changelog解説](https://qiita.com/moha0918_/items/5acf087c20983cff5f7c) (2026-08-13)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/08/15 21:31 JST</sub>
+  <sub>Last updated: 2026/08/16 21:33 JST</sub>
 </p>
