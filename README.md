@@ -32,20 +32,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [AWS VPCの構成要素—パブリック/プライベートサブネットの見分け方とNATの置き場所](https://mohablog.com/aws-vpc-subnet-route-table-nat/) (2026-08-19)
 - [Go graceful shutdown実測—Shutdownの盲点と500msの遅れ](https://mohablog.com/go-graceful-shutdown-server/) (2026-08-18)
 - [GoでMCPサーバーを自作する—go-sdk v1.7でClaude Codeに繋ぐまで](https://mohablog.com/go-mcp-server-official-sdk/) (2026-08-18)
-- [AWS AssumeRoleとは—信頼ポリシーとSTSで権限を委譲する仕組み](https://mohablog.com/aws-assumerole-sts-basics/) (2026-08-15)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.235｜Shift+Tab が編集許可をセッション全体に広げていた｜毎日Changelog解説](https://qiita.com/moha0918_/items/1ebf8c74963254d372cf) (2026-08-19)
 - [Claude Code v2.1.234｜利用上限リセットで自動再開｜毎日Changelog解説](https://qiita.com/moha0918_/items/75f3681463180844e8ed) (2026-08-18)
 - [Claude Code v2.1.233｜TodoWrite が Fable 5 / Sonnet 5 で無効に｜毎日Changelog解説](https://qiita.com/moha0918_/items/b604352231f9a8a76a38) (2026-08-16)
-- [Claude Code v2.1.232｜サブエージェントの fork がデフォルトON｜毎日Changelog解説](https://qiita.com/moha0918_/items/6bc03320b1d2873318db) (2026-08-15)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/08/18 21:39 JST</sub>
+  <sub>Last updated: 2026/08/19 21:39 JST</sub>
 </p>
