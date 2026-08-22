@@ -32,20 +32,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude Code VS Code拡張の設定—CLIと別バイナリで動く仕組み](https://mohablog.com/claude-code-vscode-extension/) (2026-08-22)
+- [Go 1.27のresp.Body自動ドレイン—io.Copyはまだ必要か](https://mohablog.com/go-127-response-body-drain/) (2026-08-22)
 - [httptest.NewTestServerでGoのHTTPテストからポートを消す](https://mohablog.com/go-httptest-newtestserver/) (2026-08-21)
-- [セキュリティグループとネットワークACLの違い—戻り通信のハマりどころ](https://mohablog.com/aws-security-group-vs-nacl/) (2026-08-20)
-- [AWS VPCの構成要素—パブリック/プライベートサブネットの見分け方とNATの置き場所](https://mohablog.com/aws-vpc-subnet-route-table-nat/) (2026-08-19)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.239｜Bedrock で API 課金が 2 倍になっていた｜毎日Changelog解説](https://qiita.com/moha0918_/items/610c52f6a78fdfb45ead) (2026-08-22)
 - [Claude Code v2.1.237〜v2.1.238｜長時間セッションのメモリリークが直る｜毎日Changelog解説](https://qiita.com/moha0918_/items/ca1fa2fb4e355433cee3) (2026-08-21)
 - [Claude Code v2.1.236｜.env を deny してもリネームで読めていた｜毎日Changelog解説](https://qiita.com/moha0918_/items/5807ba2338188adbc4a2) (2026-08-20)
-- [Claude Code v2.1.235｜Shift+Tab が編集許可をセッション全体に広げていた｜毎日Changelog解説](https://qiita.com/moha0918_/items/1ebf8c74963254d372cf) (2026-08-19)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/08/21 21:40 JST</sub>
+  <sub>Last updated: 2026/08/22 21:32 JST</sub>
 </p>
