@@ -32,9 +32,9 @@
 
 ### Blog Posts
 <!-- blog -->
+- [httpx2とは—Pydanticのhttpxフォークと移行で壊れる箇所](https://mohablog.com/python-httpx2-migration/) (2026-08-24)
 - [Go埋め込み構造体の初期化—1.27の昇格フィールドで入れ子を書かずに済む](https://mohablog.com/go-127-promoted-field-literal/) (2026-08-23)
 - [Claude Code VS Code拡張の設定—CLIと別バイナリで動く仕組み](https://mohablog.com/claude-code-vscode-extension/) (2026-08-22)
-- [Go 1.27のresp.Body自動ドレイン—io.Copyはまだ必要か](https://mohablog.com/go-127-response-body-drain/) (2026-08-22)
 <!-- /blog -->
 
 ### Qiita Posts
@@ -47,5 +47,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/08/23 21:33 JST</sub>
+  <sub>Last updated: 2026/08/24 21:42 JST</sub>
 </p>
