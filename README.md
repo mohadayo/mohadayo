@@ -32,20 +32,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Python ThreadPoolExecutor入門—効かない処理とbuffersize](https://mohablog.com/python-threadpoolexecutor/) (2026-08-25)
 - [httpx2とは—Pydanticのhttpxフォークと移行で壊れる箇所](https://mohablog.com/python-httpx2-migration/) (2026-08-24)
 - [Go埋め込み構造体の初期化—1.27の昇格フィールドで入れ子を書かずに済む](https://mohablog.com/go-127-promoted-field-literal/) (2026-08-23)
-- [Claude Code VS Code拡張の設定—CLIと別バイナリで動く仕組み](https://mohablog.com/claude-code-vscode-extension/) (2026-08-22)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.241〜v2.1.245｜バイナリが 340MB から 75MB に縮む｜毎日Changelog解説](https://qiita.com/moha0918_/items/f430ec14a58612a484a7) (2026-08-25)
 - [Claude Code v2.1.240｜changelog が 1 行だけの 7 回目｜毎日Changelog解説](https://qiita.com/moha0918_/items/12f5986150135934e5a3) (2026-08-23)
 - [Claude Code v2.1.239｜Bedrock で API 課金が 2 倍になっていた｜毎日Changelog解説](https://qiita.com/moha0918_/items/610c52f6a78fdfb45ead) (2026-08-22)
-- [Claude Code v2.1.237〜v2.1.238｜長時間セッションのメモリリークが直る｜毎日Changelog解説](https://qiita.com/moha0918_/items/ca1fa2fb4e355433cee3) (2026-08-21)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/08/24 21:42 JST</sub>
+  <sub>Last updated: 2026/08/25 21:41 JST</sub>
 </p>
