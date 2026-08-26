@@ -39,13 +39,13 @@
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.246｜ゲートウェイ用 API キーが Anthropic にも送られていた｜毎日Changelog解説](https://qiita.com/moha0918_/items/deb59f3dca09a54fd7c8) (2026-08-26)
 - [Claude Code v2.1.241〜v2.1.245｜バイナリが 340MB から 75MB に縮む｜毎日Changelog解説](https://qiita.com/moha0918_/items/f430ec14a58612a484a7) (2026-08-25)
 - [Claude Code v2.1.240｜changelog が 1 行だけの 7 回目｜毎日Changelog解説](https://qiita.com/moha0918_/items/12f5986150135934e5a3) (2026-08-23)
-- [Claude Code v2.1.239｜Bedrock で API 課金が 2 倍になっていた｜毎日Changelog解説](https://qiita.com/moha0918_/items/610c52f6a78fdfb45ead) (2026-08-22)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/08/25 21:41 JST</sub>
+  <sub>Last updated: 2026/08/26 21:45 JST</sub>
 </p>
