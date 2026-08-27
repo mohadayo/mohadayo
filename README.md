@@ -32,20 +32,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude Codeセッション間通信の仕組み—SendMessageが届かない原因](https://mohablog.com/claude-code-session-messaging/) (2026-08-27)
+- [Claude Codeバックグラウンド実行の確認—agent viewとデーモンの中身](https://mohablog.com/claude-code-background-agents/) (2026-08-27)
 - [Python ThreadPoolExecutor入門—効かない処理とbuffersize](https://mohablog.com/python-threadpoolexecutor/) (2026-08-25)
-- [httpx2とは—Pydanticのhttpxフォークと移行で壊れる箇所](https://mohablog.com/python-httpx2-migration/) (2026-08-24)
-- [Go埋め込み構造体の初期化—1.27の昇格フィールドで入れ子を書かずに済む](https://mohablog.com/go-127-promoted-field-literal/) (2026-08-23)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.247｜不具合報告を Claude が下書きする SendFeedback｜毎日Changelog解説](https://qiita.com/moha0918_/items/919bc7da12ffc40764e5) (2026-08-27)
 - [Claude Code v2.1.246｜ゲートウェイ用 API キーが Anthropic にも送られていた｜毎日Changelog解説](https://qiita.com/moha0918_/items/deb59f3dca09a54fd7c8) (2026-08-26)
 - [Claude Code v2.1.241〜v2.1.245｜バイナリが 340MB から 75MB に縮む｜毎日Changelog解説](https://qiita.com/moha0918_/items/f430ec14a58612a484a7) (2026-08-25)
-- [Claude Code v2.1.240｜changelog が 1 行だけの 7 回目｜毎日Changelog解説](https://qiita.com/moha0918_/items/12f5986150135934e5a3) (2026-08-23)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/08/26 21:45 JST</sub>
+  <sub>Last updated: 2026/08/28 06:43 JST</sub>
 </p>
