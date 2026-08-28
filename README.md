@@ -32,20 +32,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Go Modulesの仕組みを実測する—go.sumがロックファイルではない理由](https://mohablog.com/go-modules-mvs-gosum/) (2026-08-28)
 - [Claude Codeセッション間通信の仕組み—SendMessageが届かない原因](https://mohablog.com/claude-code-session-messaging/) (2026-08-27)
 - [Claude Codeバックグラウンド実行の確認—agent viewとデーモンの中身](https://mohablog.com/claude-code-background-agents/) (2026-08-27)
-- [Python ThreadPoolExecutor入門—効かない処理とbuffersize](https://mohablog.com/python-threadpoolexecutor/) (2026-08-25)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.248〜v2.1.250｜実行系ツールを丸ごと外す --restricted｜毎日Changelog解説](https://qiita.com/moha0918_/items/b11680af5ed3fa4a4628) (2026-08-28)
 - [Claude Code v2.1.247｜不具合報告を Claude が下書きする SendFeedback｜毎日Changelog解説](https://qiita.com/moha0918_/items/919bc7da12ffc40764e5) (2026-08-27)
 - [Claude Code v2.1.246｜ゲートウェイ用 API キーが Anthropic にも送られていた｜毎日Changelog解説](https://qiita.com/moha0918_/items/deb59f3dca09a54fd7c8) (2026-08-26)
-- [Claude Code v2.1.241〜v2.1.245｜バイナリが 340MB から 75MB に縮む｜毎日Changelog解説](https://qiita.com/moha0918_/items/f430ec14a58612a484a7) (2026-08-25)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/08/28 06:43 JST</sub>
+  <sub>Last updated: 2026/08/29 06:42 JST</sub>
 </p>
