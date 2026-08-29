@@ -32,9 +32,9 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Go sync.Poolが1回のGCで空になる条件—victim cacheの中身](https://mohablog.com/go-sync-pool-victim-cache/) (2026-08-29)
 - [Go Modulesの仕組みを実測する—go.sumがロックファイルではない理由](https://mohablog.com/go-modules-mvs-gosum/) (2026-08-28)
 - [Claude Codeセッション間通信の仕組み—SendMessageが届かない原因](https://mohablog.com/claude-code-session-messaging/) (2026-08-27)
-- [Claude Codeバックグラウンド実行の確認—agent viewとデーモンの中身](https://mohablog.com/claude-code-background-agents/) (2026-08-27)
 <!-- /blog -->
 
 ### Qiita Posts
@@ -47,5 +47,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/08/29 06:42 JST</sub>
+  <sub>Last updated: 2026/08/30 01:11 JST</sub>
 </p>
