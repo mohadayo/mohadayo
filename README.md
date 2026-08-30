@@ -32,20 +32,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude Codeのプロンプトキャッシュ—TTLの決まり方と$0.17の内訳](https://mohablog.com/claude-code-prompt-cache-ttl/) (2026-08-30)
 - [Go sync.Poolが1回のGCで空になる条件—victim cacheの中身](https://mohablog.com/go-sync-pool-victim-cache/) (2026-08-29)
 - [Go Modulesの仕組みを実測する—go.sumがロックファイルではない理由](https://mohablog.com/go-modules-mvs-gosum/) (2026-08-28)
-- [Claude Codeセッション間通信の仕組み—SendMessageが届かない原因](https://mohablog.com/claude-code-session-messaging/) (2026-08-27)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.251｜権限チェック後の symlink 差し替えを塞ぐ｜毎日Changelog解説](https://qiita.com/moha0918_/items/08dfa2f03d89272498dc) (2026-08-29)
 - [Claude Code v2.1.248〜v2.1.250｜実行系ツールを丸ごと外す --restricted｜毎日Changelog解説](https://qiita.com/moha0918_/items/b11680af5ed3fa4a4628) (2026-08-28)
 - [Claude Code v2.1.247｜不具合報告を Claude が下書きする SendFeedback｜毎日Changelog解説](https://qiita.com/moha0918_/items/919bc7da12ffc40764e5) (2026-08-27)
-- [Claude Code v2.1.246｜ゲートウェイ用 API キーが Anthropic にも送られていた｜毎日Changelog解説](https://qiita.com/moha0918_/items/deb59f3dca09a54fd7c8) (2026-08-26)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/08/30 01:11 JST</sub>
+  <sub>Last updated: 2026/08/31 01:00 JST</sub>
 </p>
