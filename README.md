@@ -32,9 +32,9 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude Codeのタスク管理—TaskCreateとTodoWriteは何が違うのか](https://mohablog.com/claude-code-task-tools/) (2026-08-31)
 - [Claude Codeのプロンプトキャッシュ—TTLの決まり方と$0.17の内訳](https://mohablog.com/claude-code-prompt-cache-ttl/) (2026-08-30)
 - [Go sync.Poolが1回のGCで空になる条件—victim cacheの中身](https://mohablog.com/go-sync-pool-victim-cache/) (2026-08-29)
-- [Go Modulesの仕組みを実測する—go.sumがロックファイルではない理由](https://mohablog.com/go-modules-mvs-gosum/) (2026-08-28)
 <!-- /blog -->
 
 ### Qiita Posts
@@ -47,5 +47,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/08/31 01:00 JST</sub>
+  <sub>Last updated: 2026/09/01 03:44 JST</sub>
 </p>
