@@ -32,20 +32,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [EC2インスタンスタイプの命名規則と購入オプション—t3のunlimitedは既定で動く](https://mohablog.com/ec2-instance-type-purchasing/) (2026-09-01)
 - [Claude Codeのタスク管理—TaskCreateとTodoWriteは何が違うのか](https://mohablog.com/claude-code-task-tools/) (2026-08-31)
 - [Claude Codeのプロンプトキャッシュ—TTLの決まり方と$0.17の内訳](https://mohablog.com/claude-code-prompt-cache-ttl/) (2026-08-30)
-- [Go sync.Poolが1回のGCで空になる条件—victim cacheの中身](https://mohablog.com/go-sync-pool-victim-cache/) (2026-08-29)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.252｜always allow が保存されない条件｜毎日Changelog解説](https://qiita.com/moha0918_/items/09b61fa44e12b8e9bd36) (2026-09-01)
 - [Claude Code v2.1.251｜権限チェック後の symlink 差し替えを塞ぐ｜毎日Changelog解説](https://qiita.com/moha0918_/items/08dfa2f03d89272498dc) (2026-08-29)
 - [Claude Code v2.1.248〜v2.1.250｜実行系ツールを丸ごと外す --restricted｜毎日Changelog解説](https://qiita.com/moha0918_/items/b11680af5ed3fa4a4628) (2026-08-28)
-- [Claude Code v2.1.247｜不具合報告を Claude が下書きする SendFeedback｜毎日Changelog解説](https://qiita.com/moha0918_/items/919bc7da12ffc40764e5) (2026-08-27)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/09/01 03:44 JST</sub>
+  <sub>Last updated: 2026/09/02 01:02 JST</sub>
 </p>
