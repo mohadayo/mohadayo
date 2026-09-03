@@ -32,20 +32,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [pylock.tomlとuv.lockの違い—PEP 751をpipとuvで実測する](https://mohablog.com/pylock-toml-vs-uv-lock/) (2026-09-03)
 - [Claude CodeのLSP設定—pyrightプラグインで型エラーを自動検出する](https://mohablog.com/claude-code-lsp-pyright/) (2026-09-02)
 - [EC2インスタンスタイプの命名規則と購入オプション—t3のunlimitedは既定で動く](https://mohablog.com/ec2-instance-type-purchasing/) (2026-09-01)
-- [Claude Codeのタスク管理—TaskCreateとTodoWriteは何が違うのか](https://mohablog.com/claude-code-task-tools/) (2026-08-31)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.258｜macOS 12 で起動できない退行が直る｜毎日Changelog解説](https://qiita.com/moha0918_/items/9cdc566dadb9a8e30e1a) (2026-09-03)
 - [Claude Code v2.1.257｜auto モードの自動承認が縮む｜毎日Changelog解説](https://qiita.com/moha0918_/items/74317aca2bd592a109a6) (2026-09-02)
 - [Claude Code v2.1.252｜always allow が保存されない条件｜毎日Changelog解説](https://qiita.com/moha0918_/items/09b61fa44e12b8e9bd36) (2026-09-01)
-- [Claude Code v2.1.251｜権限チェック後の symlink 差し替えを塞ぐ｜毎日Changelog解説](https://qiita.com/moha0918_/items/08dfa2f03d89272498dc) (2026-08-29)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/09/03 00:56 JST</sub>
+  <sub>Last updated: 2026/09/04 00:45 JST</sub>
 </p>
