@@ -32,20 +32,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [EBSボリュームタイプの選び方—gp3の80,000 IOPSとインスタンス側の上限](https://mohablog.com/ebs-volume-types-iops/) (2026-09-05)
 - [Claude Code Monitorツールの使い方—grepのバッファで32秒遅れる](https://mohablog.com/claude-code-monitor-tool/) (2026-09-04)
 - [pylock.tomlとuv.lockの違い—PEP 751をpipとuvで実測する](https://mohablog.com/pylock-toml-vs-uv-lock/) (2026-09-03)
-- [Claude CodeのLSP設定—pyrightプラグインで型エラーを自動検出する](https://mohablog.com/claude-code-lsp-pyright/) (2026-09-02)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.260〜v2.1.261｜1 版で撤回された Read() deny の Bash 適用｜毎日Changelog解説](https://qiita.com/moha0918_/items/49e737eeb75cbbe8d1c8) (2026-09-05)
 - [Claude Code v2.1.259｜Read() deny をすり抜けていた経路が塞がる｜毎日Changelog解説](https://qiita.com/moha0918_/items/72c26a11dd4f27c60348) (2026-09-04)
 - [Claude Code v2.1.258｜macOS 12 で起動できない退行が直る｜毎日Changelog解説](https://qiita.com/moha0918_/items/9cdc566dadb9a8e30e1a) (2026-09-03)
-- [Claude Code v2.1.257｜auto モードの自動承認が縮む｜毎日Changelog解説](https://qiita.com/moha0918_/items/74317aca2bd592a109a6) (2026-09-02)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/09/05 00:44 JST</sub>
+  <sub>Last updated: 2026/09/05 23:33 JST</sub>
 </p>
