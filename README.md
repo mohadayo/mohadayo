@@ -32,9 +32,9 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Python MCPサーバーの作り方—SDK v2は同期関数を別スレッドで回す](https://mohablog.com/python-mcp-server-sdk-v2/) (2026-09-07)
 - [Claude CodeのMCP認証—claude mcp loginとトークンの保存先](https://mohablog.com/claude-code-mcp-oauth-login/) (2026-09-06)
 - [EBSボリュームタイプの選び方—gp3の80,000 IOPSとインスタンス側の上限](https://mohablog.com/ebs-volume-types-iops/) (2026-09-05)
-- [Claude Code Monitorツールの使い方—grepのバッファで32秒遅れる](https://mohablog.com/claude-code-monitor-tool/) (2026-09-04)
 <!-- /blog -->
 
 ### Qiita Posts
@@ -47,5 +47,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/09/06 23:54 JST</sub>
+  <sub>Last updated: 2026/09/08 02:12 JST</sub>
 </p>
