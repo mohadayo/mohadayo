@@ -32,9 +32,9 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude Code /skill-doctorの読み方—未使用スキル15本の消し方](https://mohablog.com/claude-code-skill-doctor/) (2026-09-08)
 - [Python MCPサーバーの作り方—SDK v2は同期関数を別スレッドで回す](https://mohablog.com/python-mcp-server-sdk-v2/) (2026-09-07)
 - [Claude CodeのMCP認証—claude mcp loginとトークンの保存先](https://mohablog.com/claude-code-mcp-oauth-login/) (2026-09-06)
-- [EBSボリュームタイプの選び方—gp3の80,000 IOPSとインスタンス側の上限](https://mohablog.com/ebs-volume-types-iops/) (2026-09-05)
 <!-- /blog -->
 
 ### Qiita Posts
@@ -47,5 +47,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/09/08 02:12 JST</sub>
+  <sub>Last updated: 2026/09/09 00:57 JST</sub>
 </p>
