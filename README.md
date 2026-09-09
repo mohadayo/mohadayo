@@ -32,20 +32,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude Code rulesのpathsが効かない理由—catで読むと載らない](https://mohablog.com/claude-code-rules-paths/) (2026-09-09)
 - [Claude Code /skill-doctorの読み方—未使用スキル15本の消し方](https://mohablog.com/claude-code-skill-doctor/) (2026-09-08)
 - [Python MCPサーバーの作り方—SDK v2は同期関数を別スレッドで回す](https://mohablog.com/python-mcp-server-sdk-v2/) (2026-09-07)
-- [Claude CodeのMCP認証—claude mcp loginとトークンの保存先](https://mohablog.com/claude-code-mcp-oauth-login/) (2026-09-06)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.263〜v2.1.265｜サブエージェントと teammate で prompt cache が外れていた｜毎日Changelog解説](https://qiita.com/moha0918_/items/51a3235755ea1214e305) (2026-09-09)
 - [Claude Code v2.1.260〜v2.1.261｜1 版で撤回された Read() deny の Bash 適用｜毎日Changelog解説](https://qiita.com/moha0918_/items/49e737eeb75cbbe8d1c8) (2026-09-05)
 - [Claude Code v2.1.259｜Read() deny をすり抜けていた経路が塞がる｜毎日Changelog解説](https://qiita.com/moha0918_/items/72c26a11dd4f27c60348) (2026-09-04)
-- [Claude Code v2.1.258｜macOS 12 で起動できない退行が直る｜毎日Changelog解説](https://qiita.com/moha0918_/items/9cdc566dadb9a8e30e1a) (2026-09-03)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/09/09 00:57 JST</sub>
+  <sub>Last updated: 2026/09/10 00:53 JST</sub>
 </p>
