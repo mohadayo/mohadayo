@@ -32,20 +32,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Go 1.27のメモリ割り当て高速化—80バイト以下で31%、-raceでは効かない](https://mohablog.com/go-127-size-specialized-malloc/) (2026-09-10)
 - [Claude Code rulesのpathsが効かない理由—catで読むと載らない](https://mohablog.com/claude-code-rules-paths/) (2026-09-09)
 - [Claude Code /skill-doctorの読み方—未使用スキル15本の消し方](https://mohablog.com/claude-code-skill-doctor/) (2026-09-08)
-- [Python MCPサーバーの作り方—SDK v2は同期関数を別スレッドで回す](https://mohablog.com/python-mcp-server-sdk-v2/) (2026-09-07)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.266〜v2.1.267｜maxEffortLevel で effort に上限がつく｜毎日Changelog解説](https://qiita.com/moha0918_/items/6c42ed030b4cfba89fc0) (2026-09-10)
 - [Claude Code v2.1.263〜v2.1.265｜サブエージェントと teammate で prompt cache が外れていた｜毎日Changelog解説](https://qiita.com/moha0918_/items/51a3235755ea1214e305) (2026-09-09)
 - [Claude Code v2.1.260〜v2.1.261｜1 版で撤回された Read() deny の Bash 適用｜毎日Changelog解説](https://qiita.com/moha0918_/items/49e737eeb75cbbe8d1c8) (2026-09-05)
-- [Claude Code v2.1.259｜Read() deny をすり抜けていた経路が塞がる｜毎日Changelog解説](https://qiita.com/moha0918_/items/72c26a11dd4f27c60348) (2026-09-04)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/09/10 00:53 JST</sub>
+  <sub>Last updated: 2026/09/11 00:48 JST</sub>
 </p>
