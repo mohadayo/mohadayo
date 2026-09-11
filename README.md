@@ -32,20 +32,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Python frozendictの使い方—3.15組み込み版はdictを継承しない](https://mohablog.com/python-315-frozendict/) (2026-09-11)
 - [Go 1.27のメモリ割り当て高速化—80バイト以下で31%、-raceでは効かない](https://mohablog.com/go-127-size-specialized-malloc/) (2026-09-10)
 - [Claude Code rulesのpathsが効かない理由—catで読むと載らない](https://mohablog.com/claude-code-rules-paths/) (2026-09-09)
-- [Claude Code /skill-doctorの読み方—未使用スキル15本の消し方](https://mohablog.com/claude-code-skill-doctor/) (2026-09-08)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.268｜deny ルールの symlink 抜けが塞がる｜毎日Changelog解説](https://qiita.com/moha0918_/items/ae91eab15ef7ae851238) (2026-09-11)
 - [Claude Code v2.1.266〜v2.1.267｜maxEffortLevel で effort に上限がつく｜毎日Changelog解説](https://qiita.com/moha0918_/items/6c42ed030b4cfba89fc0) (2026-09-10)
 - [Claude Code v2.1.263〜v2.1.265｜サブエージェントと teammate で prompt cache が外れていた｜毎日Changelog解説](https://qiita.com/moha0918_/items/51a3235755ea1214e305) (2026-09-09)
-- [Claude Code v2.1.260〜v2.1.261｜1 版で撤回された Read() deny の Bash 適用｜毎日Changelog解説](https://qiita.com/moha0918_/items/49e737eeb75cbbe8d1c8) (2026-09-05)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/09/11 00:48 JST</sub>
+  <sub>Last updated: 2026/09/12 00:50 JST</sub>
 </p>
