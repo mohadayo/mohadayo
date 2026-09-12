@@ -32,20 +32,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Python 3.15で.pthのimport行が非推奨—.startファイルへの移行手順](https://mohablog.com/python-315-pth-start-files/) (2026-09-12)
 - [Python frozendictの使い方—3.15組み込み版はdictを継承しない](https://mohablog.com/python-315-frozendict/) (2026-09-11)
 - [Go 1.27のメモリ割り当て高速化—80バイト以下で31%、-raceでは効かない](https://mohablog.com/go-127-size-specialized-malloc/) (2026-09-10)
-- [Claude Code rulesのpathsが効かない理由—catで読むと載らない](https://mohablog.com/claude-code-rules-paths/) (2026-09-09)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.269｜claude plugin eval でプラグインを採点｜毎日Changelog解説](https://qiita.com/moha0918_/items/52f33cf70bea41809eb1) (2026-09-12)
 - [Claude Code v2.1.268｜deny ルールの symlink 抜けが塞がる｜毎日Changelog解説](https://qiita.com/moha0918_/items/ae91eab15ef7ae851238) (2026-09-11)
 - [Claude Code v2.1.266〜v2.1.267｜maxEffortLevel で effort に上限がつく｜毎日Changelog解説](https://qiita.com/moha0918_/items/6c42ed030b4cfba89fc0) (2026-09-10)
-- [Claude Code v2.1.263〜v2.1.265｜サブエージェントと teammate で prompt cache が外れていた｜毎日Changelog解説](https://qiita.com/moha0918_/items/51a3235755ea1214e305) (2026-09-09)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/09/12 00:50 JST</sub>
+  <sub>Last updated: 2026/09/12 23:57 JST</sub>
 </p>
