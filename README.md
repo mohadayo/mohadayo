@@ -39,13 +39,13 @@
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.271〜v2.1.282｜Opus 5.5 が既定モデルに｜週刊Changelog解説](https://qiita.com/moha0918_/items/4d9f3ac4f27c7bac0aab) (2026-09-25)
 - [Claude Code v2.1.270｜読み取り専用の git に許可確認が出るデグレが直る｜毎日Changelog解説](https://qiita.com/moha0918_/items/6819a679639e6b264310) (2026-09-13)
 - [Claude Code v2.1.269｜claude plugin eval でプラグインを採点｜毎日Changelog解説](https://qiita.com/moha0918_/items/52f33cf70bea41809eb1) (2026-09-12)
-- [Claude Code v2.1.268｜deny ルールの symlink 抜けが塞がる｜毎日Changelog解説](https://qiita.com/moha0918_/items/ae91eab15ef7ae851238) (2026-09-11)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/09/25 01:28 JST</sub>
+  <sub>Last updated: 2026/09/26 01:30 JST</sub>
 </p>
