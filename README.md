@@ -32,9 +32,9 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude Code Modsとは—PreToolUseより先に動く仕組み](https://mohablog.com/claude-code-mods-hook-order/) (2026-10-03)
 - [GOMEMLIMITとGOGCの違い—上限を詰めると10倍遅くなるのはなぜ？](https://mohablog.com/go-gomemlimit-gogc/) (2026-09-26)
 - [Claude Code plugin evalでスキルは効いているか—Δの測り方](https://mohablog.com/claude-code-plugin-eval/) (2026-09-13)
-- [Python 3.15で.pthのimport行が非推奨—.startファイルへの移行手順](https://mohablog.com/python-315-pth-start-files/) (2026-09-12)
 <!-- /blog -->
 
 ### Qiita Posts
@@ -47,5 +47,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/10/03 02:26 JST</sub>
+  <sub>Last updated: 2026/10/04 00:41 JST</sub>
 </p>
