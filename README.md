@@ -32,9 +32,9 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Go GODEBUGの既定値はgo.modで決まる—1.27で起動時に落ちる設定](https://mohablog.com/go-godebug-defaults/) (2026-10-10)
 - [Claude Code Modsとは—PreToolUseより先に動く仕組み](https://mohablog.com/claude-code-mods-hook-order/) (2026-10-03)
 - [GOMEMLIMITとGOGCの違い—上限を詰めると10倍遅くなるのはなぜ？](https://mohablog.com/go-gomemlimit-gogc/) (2026-09-26)
-- [Claude Code plugin evalでスキルは効いているか—Δの測り方](https://mohablog.com/claude-code-plugin-eval/) (2026-09-13)
 <!-- /blog -->
 
 ### Qiita Posts
@@ -47,5 +47,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/10/10 02:56 JST</sub>
+  <sub>Last updated: 2026/10/11 01:56 JST</sub>
 </p>
