@@ -39,13 +39,13 @@
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.290〜v2.1.296｜hook の素通りが塞がる｜週刊Changelog解説](https://qiita.com/moha0918_/items/d8fcd1dc4da7a095f441) (2026-10-12)
 - [Claude Code v2.1.284〜v2.1.289｜auto mode が全プラン・全プロバイダで既定に｜週刊Changelog解説](https://qiita.com/moha0918_/items/8426056436a7f5619806) (2026-10-05)
 - [Claude Code v2.1.283｜deniedModels で特定モデルを締め出せる｜週刊Changelog解説](https://qiita.com/moha0918_/items/ee0dd34b9d12f0ab02a7) (2026-09-28)
-- [Claude Code v2.1.271〜v2.1.282｜Opus 5.5 が既定モデルに｜週刊Changelog解説](https://qiita.com/moha0918_/items/4d9f3ac4f27c7bac0aab) (2026-09-25)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/10/12 02:18 JST</sub>
+  <sub>Last updated: 2026/10/13 05:53 JST</sub>
 </p>
