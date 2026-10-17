@@ -32,9 +32,9 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Python sentinelとは—case MISSINGが全部に一致する理由](https://mohablog.com/python-315-sentinel/) (2026-10-17)
 - [Go GODEBUGの既定値はgo.modで決まる—1.27で起動時に落ちる設定](https://mohablog.com/go-godebug-defaults/) (2026-10-10)
 - [Claude Code Modsとは—PreToolUseより先に動く仕組み](https://mohablog.com/claude-code-mods-hook-order/) (2026-10-03)
-- [GOMEMLIMITとGOGCの違い—上限を詰めると10倍遅くなるのはなぜ？](https://mohablog.com/go-gomemlimit-gogc/) (2026-09-26)
 <!-- /blog -->
 
 ### Qiita Posts
@@ -47,5 +47,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/10/17 01:03 JST</sub>
+  <sub>Last updated: 2026/10/17 23:55 JST</sub>
 </p>
