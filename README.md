@@ -39,13 +39,13 @@
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.299〜v2.1.302｜54 分の放置で idle compaction が走る｜週刊Changelog解説](https://qiita.com/moha0918_/items/8075926f722e7cd5fca3) (2026-10-19)
 - [Claude Code v2.1.290〜v2.1.296｜hook の素通りが塞がる｜週刊Changelog解説](https://qiita.com/moha0918_/items/d8fcd1dc4da7a095f441) (2026-10-12)
 - [Claude Code v2.1.284〜v2.1.289｜auto mode が全プラン・全プロバイダで既定に｜週刊Changelog解説](https://qiita.com/moha0918_/items/8426056436a7f5619806) (2026-10-05)
-- [Claude Code v2.1.283｜deniedModels で特定モデルを締め出せる｜週刊Changelog解説](https://qiita.com/moha0918_/items/ee0dd34b9d12f0ab02a7) (2026-09-28)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/10/19 00:21 JST</sub>
+  <sub>Last updated: 2026/10/20 03:18 JST</sub>
 </p>
