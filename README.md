@@ -32,9 +32,9 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude Code safety_eventの読み方—素の-pでは拒否が1件出ない](https://mohablog.com/claude-code-safety-event/) (2026-10-25)
 - [Python sentinelとは—case MISSINGが全部に一致する理由](https://mohablog.com/python-315-sentinel/) (2026-10-17)
 - [Go GODEBUGの既定値はgo.modで決まる—1.27で起動時に落ちる設定](https://mohablog.com/go-godebug-defaults/) (2026-10-10)
-- [Claude Code Modsとは—PreToolUseより先に動く仕組み](https://mohablog.com/claude-code-mods-hook-order/) (2026-10-03)
 <!-- /blog -->
 
 ### Qiita Posts
@@ -47,5 +47,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/10/25 00:21 JST</sub>
+  <sub>Last updated: 2026/10/26 00:31 JST</sub>
 </p>
