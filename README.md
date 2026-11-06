@@ -32,9 +32,9 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude Codeのログイン期限—自動更新で延びないclaude -pの対処法](https://mohablog.com/claude-code-login-expiry/) (2026-11-06)
 - [Claude Code safety_eventの読み方—素の-pでは拒否が1件出ない](https://mohablog.com/claude-code-safety-event/) (2026-10-25)
 - [Python sentinelとは—case MISSINGが全部に一致する理由](https://mohablog.com/python-315-sentinel/) (2026-10-17)
-- [Go GODEBUGの既定値はgo.modで決まる—1.27で起動時に落ちる設定](https://mohablog.com/go-godebug-defaults/) (2026-10-10)
 <!-- /blog -->
 
 ### Qiita Posts
@@ -47,5 +47,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/11/06 04:28 JST</sub>
+  <sub>Last updated: 2026/11/07 03:52 JST</sub>
 </p>
