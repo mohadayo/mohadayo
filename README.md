@@ -32,20 +32,20 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude Code Code Modeとは？入力トークンが6割減った理由を実測で分解](https://mohablog.com/claude-code-code-mode/) (2026-11-15)
 - [Claude Codeのログイン期限—自動更新で延びないclaude -pの対処法](https://mohablog.com/claude-code-login-expiry/) (2026-11-06)
 - [Claude Code safety_eventの読み方—素の-pでは拒否が1件出ない](https://mohablog.com/claude-code-safety-event/) (2026-10-25)
-- [Python sentinelとは—case MISSINGが全部に一致する理由](https://mohablog.com/python-315-sentinel/) (2026-10-17)
 <!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
+- [Claude Code v2.1.317〜v2.1.325｜サンドボックス内 Bash の自動許可が既定オフに｜週刊Changelog解説](https://qiita.com/moha0918_/items/149101a4b84ba5fef52c) (2026-11-15)
 - [Claude Code v2.1.311〜v2.1.316｜ultrathink でそのターンだけ xhigh effort に｜週刊Changelog解説](https://qiita.com/moha0918_/items/83875a7189724b35bd91) (2026-11-02)
 - [Claude Code v2.1.303〜v2.1.310｜sandbox の外でシェル起動ファイルが走っていた｜週刊Changelog解説](https://qiita.com/moha0918_/items/9165d1bc8234658ad21e) (2026-10-26)
-- [Claude Code v2.1.299〜v2.1.302｜54 分の放置で idle compaction が走る｜週刊Changelog解説](https://qiita.com/moha0918_/items/8075926f722e7cd5fca3) (2026-10-19)
 <!-- /qiita -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/11/15 02:38 JST</sub>
+  <sub>Last updated: 2026/11/16 03:27 JST</sub>
 </p>
