@@ -32,9 +32,9 @@
 
 ### Blog Posts
 <!-- blog -->
+- [Claude Code hooksの出力がClaudeに届かない原因と確かめ方](https://mohablog.com/claude-code-hook-output/) (2026-11-21)
 - [Claude Code Code Modeとは？入力トークンが6割減った理由を実測で分解](https://mohablog.com/claude-code-code-mode/) (2026-11-15)
 - [Claude Codeのログイン期限—自動更新で延びないclaude -pの対処法](https://mohablog.com/claude-code-login-expiry/) (2026-11-06)
-- [Claude Code safety_eventの読み方—素の-pでは拒否が1件出ない](https://mohablog.com/claude-code-safety-event/) (2026-10-25)
 <!-- /blog -->
 
 ### Qiita Posts
@@ -47,5 +47,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: 2026/11/21 04:36 JST</sub>
+  <sub>Last updated: 2026/11/22 03:40 JST</sub>
 </p>
