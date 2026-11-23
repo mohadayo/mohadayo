@@ -19,8 +19,7 @@
 
 ### Products
 
-- [rootage-app](https://github.com/mohadayo/rootage-app) - 新人エンジニア育成アプリ (Go + Vue 3)
-  <br><sub>*[ルーテイジ株式会社](https://www.rootage.co.jp/)様より受注・納品。許可を得てソースコードを公開しています。*</sub>
+- **Docmate** - 美容クリニックの Instagram / TikTok 投稿の材料を、医療広告のルールを外さずに作る SaaS (Next.js + TypeScript)
 
 - [珈琲専門店 詩季](https://shiki-coffee.com) - 「珈琲専門店 詩季」様 公式ホームページ (Next.js + TypeScript)
 
