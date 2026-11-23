@@ -19,7 +19,7 @@
 
 ### Products
 
-- **Docmate** - 美容クリニックの Instagram / TikTok 投稿の材料を、医療広告のルールを外さずに作る SaaS (Next.js + TypeScript)
+- [Docmate](https://docmate.jp) - 忙しい医師に代わって、症例写真を Instagram / TikTok の投稿に仕上げる美容クリニック向け SaaS (Next.js + TypeScript)
 
 - [珈琲専門店 詩季](https://shiki-coffee.com) - 「珈琲専門店 詩季」様 公式ホームページ (Next.js + TypeScript)
 
