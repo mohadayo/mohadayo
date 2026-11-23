@@ -1,6 +1,6 @@
 <h1 align="center">Hi! Welcome to my GitHub!</h1>
 <p align="center">
-  <em>Software Engineer / Founder &amp; CEO, Ankh Inc. / Tokyo</em>
+  <em>Software Engineer / Founder &amp; CEO, Ankh Inc. / 🇯🇵🇪🇬</em>
 </p>
 
 <p align="center">
