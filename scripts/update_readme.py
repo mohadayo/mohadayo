@@ -1,4 +1,4 @@
-"""GitHub Profile READMEのブログ・Qiita記事セクションのみを自動更新するスクリプト"""
+"""GitHub Profile READMEのQiita記事セクションのみを自動更新するスクリプト"""
 
 import re
 from datetime import datetime, timezone, timedelta
@@ -8,30 +8,7 @@ import requests
 
 JST = timezone(timedelta(hours=9))
 README_PATH = Path(__file__).parent.parent / "README.md"
-BLOG_URL = "https://mohablog.com"
 QIITA_USER = "moha0918_"
-
-
-def fetch_blog_posts(limit: int = 3) -> list[dict]:
-    """mohablogの直近記事を取得する"""
-    try:
-        resp = requests.get(
-            f"{BLOG_URL}/wp-json/wp/v2/posts",
-            params={"per_page": limit, "_fields": "title,link,date"},
-            timeout=15,
-        )
-        resp.raise_for_status()
-        posts = []
-        for p in resp.json():
-            posts.append({
-                "title": p["title"]["rendered"],
-                "url": p["link"],
-                "date": p["date"][:10],
-            })
-        return posts
-    except Exception as e:
-        print(f"Warning: ブログ記事の取得に失敗しました: {e}")
-        return []
 
 
 def fetch_qiita_posts(limit: int = 3) -> list[dict]:
@@ -77,14 +54,7 @@ def update_timestamp(readme: str) -> str:
 def main():
     readme = README_PATH.read_text(encoding="utf-8")
 
-    blog_posts = fetch_blog_posts(limit=3)
     qiita_posts = fetch_qiita_posts(limit=3)
-
-    if blog_posts:
-        blog_md = "\n".join(
-            f"- [{p['title']}]({p['url']}) ({p['date']})" for p in blog_posts
-        )
-        readme = replace_section(readme, "blog", blog_md)
 
     if qiita_posts:
         qiita_md = "\n".join(

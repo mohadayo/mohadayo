@@ -4,7 +4,6 @@
 </p>
 
 <p align="center">
-  <a href="https://mohablog.com"><img src="https://img.shields.io/badge/Blog-mohablog-333?style=flat-square" alt="Blog" /></a>
   <a href="https://qiita.com/moha0918_"><img src="https://img.shields.io/badge/Qiita-moha0918__-55C500?style=flat-square&logo=qiita&logoColor=white" alt="Qiita" /></a>
   <a href="https://github.com/mohadayo"><img src="https://img.shields.io/badge/GitHub-mohadayo-181717?style=flat-square&logo=github" alt="GitHub" /></a>
 </p>
@@ -29,13 +28,6 @@
 - [盆栽ブランチ](https://bonsai-branch.pages.dev) - 盆栽を育てるように、gitの主要操作を覚えるパズルゲーム (React + TypeScript)
 
 ---
-
-### Blog Posts
-<!-- blog -->
-- [Claude Code hooksの出力がClaudeに届かない原因と確かめ方](https://mohablog.com/claude-code-hook-output/) (2026-11-21)
-- [Claude Code Code Modeとは？入力トークンが6割減った理由を実測で分解](https://mohablog.com/claude-code-code-mode/) (2026-11-15)
-- [Claude Codeのログイン期限—自動更新で延びないclaude -pの対処法](https://mohablog.com/claude-code-login-expiry/) (2026-11-06)
-<!-- /blog -->
 
 ### Qiita Posts
 <!-- qiita -->
