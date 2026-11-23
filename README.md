@@ -24,3 +24,9 @@
 - [珈琲専門店 詩季](https://shiki-coffee.com) - 「珈琲専門店 詩季」様 公式ホームページ (Next.js + TypeScript)
 
 - [盆栽ブランチ](https://bonsai-branch.pages.dev) - 盆栽を育てるように、gitの主要操作を覚えるパズルゲーム (React + TypeScript)
+
+---
+
+### Books
+
+Kindle で出版を準備しています。
