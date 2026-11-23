@@ -4,7 +4,6 @@
 </p>
 
 <p align="center">
-  <a href="https://qiita.com/moha0918_"><img src="https://img.shields.io/badge/Qiita-moha0918__-55C500?style=flat-square&logo=qiita&logoColor=white" alt="Qiita" /></a>
   <a href="https://github.com/mohadayo"><img src="https://img.shields.io/badge/GitHub-mohadayo-181717?style=flat-square&logo=github" alt="GitHub" /></a>
 </p>
 
@@ -26,18 +25,3 @@
 - [珈琲専門店 詩季](https://shiki-coffee.com) - 「珈琲専門店 詩季」様 公式ホームページ (Next.js + TypeScript)
 
 - [盆栽ブランチ](https://bonsai-branch.pages.dev) - 盆栽を育てるように、gitの主要操作を覚えるパズルゲーム (React + TypeScript)
-
----
-
-### Qiita Posts
-<!-- qiita -->
-- [Claude Code v2.1.317〜v2.1.325｜サンドボックス内 Bash の自動許可が既定オフに｜週刊Changelog解説](https://qiita.com/moha0918_/items/149101a4b84ba5fef52c) (2026-11-15)
-- [Claude Code v2.1.311〜v2.1.316｜ultrathink でそのターンだけ xhigh effort に｜週刊Changelog解説](https://qiita.com/moha0918_/items/83875a7189724b35bd91) (2026-11-02)
-- [Claude Code v2.1.303〜v2.1.310｜sandbox の外でシェル起動ファイルが走っていた｜週刊Changelog解説](https://qiita.com/moha0918_/items/9165d1bc8234658ad21e) (2026-10-26)
-<!-- /qiita -->
-
----
-
-<p align="center">
-  <sub>Last updated: 2026/11/23 04:00 JST</sub>
-</p>
